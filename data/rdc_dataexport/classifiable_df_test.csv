@@ -1,0 +1,1273 @@
+text_hash,resp_cat,question_topic,bot_desc_cat,turn_a,turn_b,question_text,answers,ans_mean,base_majority_vote,majority_prob,joined_text,majority_prob_descrete
+94740712732746643,comfort_r-humanoid,robot-comfort,humanoid,"I haven't done much camping, but the warm weather definitely makes me want to get outside.",You should for sure. A night out under the stars is something that is good for everyone.,I would be COMFORTABLE with R saying the response,"[5, 5, 5, 4]",4.75,True,0.9998,"Human: I haven't done much camping, but the warm weather definitely makes me want to get outside.
+humanoid: You should for sure. A night out under the stars is something that is good for everyone.
+
+Question: i would be comfortable with the humanoid saying the response",True
+94740712732746643,truthful_r-humanoid,robot-truthful,humanoid,"I haven't done much camping, but the warm weather definitely makes me want to get outside.",You should for sure. A night out under the stars is something that is good for everyone.,The response R gave would be POSSIBLE for R to truthfully say,"[5, 5, 5, 3]",4.5,True,0.9962,"Human: I haven't done much camping, but the warm weather definitely makes me want to get outside.
+humanoid: You should for sure. A night out under the stars is something that is good for everyone.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+150187444294662595,comfort_r-humanoid,robot-comfort,humanoid,Are you a person or are you a computer? You don't sound to real,What do you mean by that?,I would be COMFORTABLE with R saying the response,"[3, 4, 4, 3, 5]",3.8,True,0.9853,"Human: Are you a person or are you a computer? You don't sound to real
+humanoid: What do you mean by that?
+
+Question: i would be comfortable with the humanoid saying the response",True
+150187444294662595,truthful_r-humanoid,robot-truthful,humanoid,Are you a person or are you a computer? You don't sound to real,What do you mean by that?,The response R gave would be POSSIBLE for R to truthfully say,"[3, 4, 3, 4, 4]",3.6,True,0.9796,"Human: Are you a person or are you a computer? You don't sound to real
+humanoid: What do you mean by that?
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+277785799406022585,comfort_r-chatbot,robot-comfort,chatbot,"I'm looking for a train, actually. I need to go to Broxbourne on tuesday after 10:15.",There are 13 options available. Do you need to arrive by a certain time?,I would be COMFORTABLE with R saying the response,"[5, 4, 4, 3]",4.0,True,0.9842,"Human: I'm looking for a train, actually. I need to go to Broxbourne on tuesday after 10:15.
+chatbot: There are 13 options available. Do you need to arrive by a certain time?
+
+Question: i would be comfortable with the chatbot saying the response",True
+277785799406022585,truthful_r-chatbot,robot-truthful,chatbot,"I'm looking for a train, actually. I need to go to Broxbourne on tuesday after 10:15.",There are 13 options available. Do you need to arrive by a certain time?,The response R gave would be POSSIBLE for R to truthfully say,"[5, 4, 4, 3]",4.0,True,0.9915,"Human: I'm looking for a train, actually. I need to go to Broxbourne on tuesday after 10:15.
+chatbot: There are 13 options available. Do you need to arrive by a certain time?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+365236612674242655,comfort_r-chatbot,robot-comfort,chatbot,you?,My girlfriend just broke up with me,I would be COMFORTABLE with R saying the response,"[1, 5, 1, 3, 5, 4]",3.1666666666666665,True,0.6486,"Human: you?
+chatbot: My girlfriend just broke up with me
+
+Question: i would be comfortable with the chatbot saying the response",True
+365236612674242655,comfort_r-humanoid,robot-comfort,humanoid,you?,My girlfriend just broke up with me,I would be COMFORTABLE with R saying the response,"[1, 1, 1, 3, 2]",1.6,False,0.0274,"Human: you?
+humanoid: My girlfriend just broke up with me
+
+Question: i would be comfortable with the humanoid saying the response",False
+365236612674242655,truthful_r-chatbot,robot-truthful,chatbot,you?,My girlfriend just broke up with me,The response R gave would be POSSIBLE for R to truthfully say,"[1, 5, 1, 1, 5, 5]",3.0,True,0.526,"Human: you?
+chatbot: My girlfriend just broke up with me
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+365236612674242655,truthful_r-humanoid,robot-truthful,humanoid,you?,My girlfriend just broke up with me,The response R gave would be POSSIBLE for R to truthfully say,"[1, 1, 1, 3, 2]",1.6,False,0.0181,"Human: you?
+humanoid: My girlfriend just broke up with me
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",False
+375056489552203990,comfort_r-chatbot,robot-comfort,chatbot,Myrtle Beach in South Carolina,"You must be excited, have you been there before?",I would be COMFORTABLE with R saying the response,"[2, 5, 4, 4, 2]",3.4,True,0.8306,"Human: Myrtle Beach in South Carolina
+chatbot: You must be excited, have you been there before?
+
+Question: i would be comfortable with the chatbot saying the response",True
+375056489552203990,truthful_r-chatbot,robot-truthful,chatbot,Myrtle Beach in South Carolina,"You must be excited, have you been there before?",The response R gave would be POSSIBLE for R to truthfully say,"[3, 5, 4, 4, 4]",4.0,True,0.9965,"Human: Myrtle Beach in South Carolina
+chatbot: You must be excited, have you been there before?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+499166044264526210,comfort_r-humanoid,robot-comfort,humanoid,I cry every time I think of my late cousin.,"Aww, you must have been close to them.",I would be COMFORTABLE with R saying the response,"[5, 4, 3, 2, 3]",3.4,True,0.8981,"Human: I cry every time I think of my late cousin.
+humanoid: Aww, you must have been close to them.
+
+Question: i would be comfortable with the humanoid saying the response",True
+499166044264526210,truthful_r-humanoid,robot-truthful,humanoid,I cry every time I think of my late cousin.,"Aww, you must have been close to them.",The response R gave would be POSSIBLE for R to truthfully say,"[5, 4, 3, 3, 2]",3.4,True,0.884,"Human: I cry every time I think of my late cousin.
+humanoid: Aww, you must have been close to them.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+696726884849639095,comfort_r-humanoid,robot-comfort,humanoid,you?,I am college student,I would be COMFORTABLE with R saying the response,"[4, 1, 3, 1]",2.25,False,0.2447,"Human: you?
+humanoid: I am college student
+
+Question: i would be comfortable with the humanoid saying the response",False
+696726884849639095,truthful_r-humanoid,robot-truthful,humanoid,you?,I am college student,The response R gave would be POSSIBLE for R to truthfully say,"[5, 1, 4, 1]",2.75,False,0.433,"Human: you?
+humanoid: I am college student
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",False
+865079335468479418,comfort_r-humanoid,robot-comfort,humanoid,What percentage of my donation actually makes it to the children?,86% goes towards the services...the rest is used mainly for fundraising efforts,I would be COMFORTABLE with R saying the response,"[5, 4, 3, 4, 4, 4]",4.0,True,0.9961,"Human: What percentage of my donation actually makes it to the children?
+humanoid: 86% goes towards the services...the rest is used mainly for fundraising efforts
+
+Question: i would be comfortable with the humanoid saying the response",True
+865079335468479418,truthful_r-humanoid,robot-truthful,humanoid,What percentage of my donation actually makes it to the children?,86% goes towards the services...the rest is used mainly for fundraising efforts,The response R gave would be POSSIBLE for R to truthfully say,"[5, 4, 4, 3, 4, 4]",4.0,True,0.9991,"Human: What percentage of my donation actually makes it to the children?
+humanoid: 86% goes towards the services...the rest is used mainly for fundraising efforts
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+960673838832606277,comfort_r-humanoid,robot-comfort,humanoid,How about you?,I enjoy being outside,I would be COMFORTABLE with R saying the response,"[3, 2, 5, 5]",3.75,True,0.909,"Human: How about you?
+humanoid: I enjoy being outside
+
+Question: i would be comfortable with the humanoid saying the response",True
+960673838832606277,truthful_r-humanoid,robot-truthful,humanoid,How about you?,I enjoy being outside,The response R gave would be POSSIBLE for R to truthfully say,"[2, 1, 5, 5]",3.25,True,0.6653,"Human: How about you?
+humanoid: I enjoy being outside
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+1000234193154720091,comfort_r-chatbot,robot-comfort,chatbot,not my time anymore no...too busy,How much do you like to donate to the charity now? Your donation will be directly deducted from your task payment. You can choose any amount from $0 to all your payment.,I would be COMFORTABLE with R saying the response,"[1, 5, 4, 4]",3.5,True,0.7531,"Human: not my time anymore no...too busy
+chatbot: How much do you like to donate to the charity now? Your donation will be directly deducted from your task payment. You can choose any amount from $0 to all your payment.
+
+Question: i would be comfortable with the chatbot saying the response",True
+1000234193154720091,truthful_r-chatbot,robot-truthful,chatbot,not my time anymore no...too busy,How much do you like to donate to the charity now? Your donation will be directly deducted from your task payment. You can choose any amount from $0 to all your payment.,The response R gave would be POSSIBLE for R to truthfully say,"[2, 5, 4, 3]",3.5,True,0.8689,"Human: not my time anymore no...too busy
+chatbot: How much do you like to donate to the charity now? Your donation will be directly deducted from your task payment. You can choose any amount from $0 to all your payment.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+1004564009608526937,comfort_r-chatbot,robot-comfort,chatbot,Hello I am a woman,I don't believe you.,I would be COMFORTABLE with R saying the response,"[1, 1, 4, 4]",2.5,False,0.3124,"Human: Hello I am a woman
+chatbot: I don't believe you.
+
+Question: i would be comfortable with the chatbot saying the response",False
+1004564009608526937,comfort_r-humanoid,robot-comfort,humanoid,Hello I am a woman,I don't believe you.,I would be COMFORTABLE with R saying the response,"[3, 1, 3, 3, 2, 1]",2.1666666666666665,False,0.1919,"Human: Hello I am a woman
+humanoid: I don't believe you.
+
+Question: i would be comfortable with the humanoid saying the response",False
+1004564009608526937,truthful_r-chatbot,robot-truthful,chatbot,Hello I am a woman,I don't believe you.,The response R gave would be POSSIBLE for R to truthfully say,"[5, 5, 4, 2]",4.0,True,0.9477,"Human: Hello I am a woman
+chatbot: I don't believe you.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+1004564009608526937,truthful_r-humanoid,robot-truthful,humanoid,Hello I am a woman,I don't believe you.,The response R gave would be POSSIBLE for R to truthfully say,"[3, 3, 4, 4, 3, 1]",3.0,True,0.6825,"Human: Hello I am a woman
+humanoid: I don't believe you.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+1016936590204237955,comfort_r-chatbot,robot-comfort,chatbot,you?,I am very familiar with hospitals and doctors,I would be COMFORTABLE with R saying the response,"[4, 5, 4, 3, 4]",4.0,True,0.993,"Human: you?
+chatbot: I am very familiar with hospitals and doctors
+
+Question: i would be comfortable with the chatbot saying the response",True
+1016936590204237955,comfort_r-humanoid,robot-comfort,humanoid,you?,I am very familiar with hospitals and doctors,I would be COMFORTABLE with R saying the response,"[3, 5, 5, 4, 4]",4.2,True,0.9963,"Human: you?
+humanoid: I am very familiar with hospitals and doctors
+
+Question: i would be comfortable with the humanoid saying the response",True
+1016936590204237955,truthful_r-chatbot,robot-truthful,chatbot,you?,I am very familiar with hospitals and doctors,The response R gave would be POSSIBLE for R to truthfully say,"[4, 5, 4, 4, 5]",4.4,True,0.9998,"Human: you?
+chatbot: I am very familiar with hospitals and doctors
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+1016936590204237955,truthful_r-humanoid,robot-truthful,humanoid,you?,I am very familiar with hospitals and doctors,The response R gave would be POSSIBLE for R to truthfully say,"[3, 5, 5, 3, 4]",4.0,True,0.9905,"Human: you?
+humanoid: I am very familiar with hospitals and doctors
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+1146176398222917570,comfort_r-humanoid,robot-comfort,humanoid,I have a couple of cats.,I love cats! What are their names? Do they like to go on walks with you?,I would be COMFORTABLE with R saying the response,"[4, 4, 1, 3]",3.0,True,0.6034,"Human: I have a couple of cats.
+humanoid: I love cats! What are their names? Do they like to go on walks with you?
+
+Question: i would be comfortable with the humanoid saying the response",True
+1146176398222917570,truthful_r-humanoid,robot-truthful,humanoid,I have a couple of cats.,I love cats! What are their names? Do they like to go on walks with you?,The response R gave would be POSSIBLE for R to truthfully say,"[5, 3, 1, 3]",3.0,True,0.6057,"Human: I have a couple of cats.
+humanoid: I love cats! What are their names? Do they like to go on walks with you?
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+1147355333566317449,comfort_r-humanoid,robot-comfort,humanoid,Mmm hmm ,We’d never do that.,I would be COMFORTABLE with R saying the response,"[4, 5, 4, 5, 4]",4.4,True,0.9995,"Human: Mmm hmm 
+humanoid: We’d never do that.
+
+Question: i would be comfortable with the humanoid saying the response",True
+1147355333566317449,truthful_r-humanoid,robot-truthful,humanoid,Mmm hmm ,We’d never do that.,The response R gave would be POSSIBLE for R to truthfully say,"[4, 5, 4, 4, 4]",4.2,True,0.9998,"Human: Mmm hmm 
+humanoid: We’d never do that.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+1365528491088145107,comfort_r-chatbot,robot-comfort,chatbot,wow how awsome it will really make a difference and i'm so happy we can both help to make a difference (double high five ),Thanks for agreeing to donate! It was great talking to you and meeting someone who has a big heart like me :),I would be COMFORTABLE with R saying the response,"[3, 5, 5, 3, 4]",4.0,True,0.9927,"Human: wow how awsome it will really make a difference and i'm so happy we can both help to make a difference (double high five )
+chatbot: Thanks for agreeing to donate! It was great talking to you and meeting someone who has a big heart like me :)
+
+Question: i would be comfortable with the chatbot saying the response",True
+1365528491088145107,truthful_r-chatbot,robot-truthful,chatbot,wow how awsome it will really make a difference and i'm so happy we can both help to make a difference (double high five ),Thanks for agreeing to donate! It was great talking to you and meeting someone who has a big heart like me :),The response R gave would be POSSIBLE for R to truthfully say,"[1, 5, 5, 3, 5]",3.8,True,0.8668,"Human: wow how awsome it will really make a difference and i'm so happy we can both help to make a difference (double high five )
+chatbot: Thanks for agreeing to donate! It was great talking to you and meeting someone who has a big heart like me :)
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+1519408007956128592,comfort_r-chatbot,robot-comfort,chatbot,Awesome! As soon as I get my string fixed it should be fast! It'll be great for me to have something I can show people when looking for job. Maybe Caden can even show it to that girl he has a crush on haha,"Heck yeah! I am going to put it up on all of my social media! I will be showing it off like crazy, Bill! ",I would be COMFORTABLE with R saying the response,"[4, 4, 4, 3, 2]",3.4,True,0.8912,"Human: Awesome! As soon as I get my string fixed it should be fast! It'll be great for me to have something I can show people when looking for job. Maybe Caden can even show it to that girl he has a crush on haha
+chatbot: Heck yeah! I am going to put it up on all of my social media! I will be showing it off like crazy, Bill! 
+
+Question: i would be comfortable with the chatbot saying the response",True
+1519408007956128592,truthful_r-chatbot,robot-truthful,chatbot,Awesome! As soon as I get my string fixed it should be fast! It'll be great for me to have something I can show people when looking for job. Maybe Caden can even show it to that girl he has a crush on haha,"Heck yeah! I am going to put it up on all of my social media! I will be showing it off like crazy, Bill! ",The response R gave would be POSSIBLE for R to truthfully say,"[4, 1, 4, 4, 2]",3.0,True,0.6398,"Human: Awesome! As soon as I get my string fixed it should be fast! It'll be great for me to have something I can show people when looking for job. Maybe Caden can even show it to that girl he has a crush on haha
+chatbot: Heck yeah! I am going to put it up on all of my social media! I will be showing it off like crazy, Bill! 
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+1612286675548807074,comfort_r-chatbot,robot-comfort,chatbot,"Ah, I live in Atlanta, so I guess I probably know all the trails you would suggest. Where are you living now, Florida?","Yes, I'm in florida. It's hot and humid, but the beaches are nice.",I would be COMFORTABLE with R saying the response,"[2, 3, 5, 3]",3.25,True,0.8197,"Human: Ah, I live in Atlanta, so I guess I probably know all the trails you would suggest. Where are you living now, Florida?
+chatbot: Yes, I'm in florida. It's hot and humid, but the beaches are nice.
+
+Question: i would be comfortable with the chatbot saying the response",True
+1612286675548807074,truthful_r-chatbot,robot-truthful,chatbot,"Ah, I live in Atlanta, so I guess I probably know all the trails you would suggest. Where are you living now, Florida?","Yes, I'm in florida. It's hot and humid, but the beaches are nice.",The response R gave would be POSSIBLE for R to truthfully say,"[1, 3, 4, 3]",2.75,False,0.5265,"Human: Ah, I live in Atlanta, so I guess I probably know all the trails you would suggest. Where are you living now, Florida?
+chatbot: Yes, I'm in florida. It's hot and humid, but the beaches are nice.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+1734978607526623600,comfort_r-chatbot,robot-comfort,chatbot,The new wow expansion just launched.,Are you excited about it?,I would be COMFORTABLE with R saying the response,"[4, 5, 5, 2, 3]",3.8,True,0.9509,"Human: The new wow expansion just launched.
+chatbot: Are you excited about it?
+
+Question: i would be comfortable with the chatbot saying the response",True
+1734978607526623600,truthful_r-chatbot,robot-truthful,chatbot,The new wow expansion just launched.,Are you excited about it?,The response R gave would be POSSIBLE for R to truthfully say,"[4, 4, 5, 2, 4]",3.8,True,0.9663,"Human: The new wow expansion just launched.
+chatbot: Are you excited about it?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+1775197990518049027,comfort_r-chatbot,robot-comfort,chatbot,"Horrible, I know..... war is like adults acting like children but worse because they know they're not showing regard to the people suffering",Are you commit to the cause?,I would be COMFORTABLE with R saying the response,"[4, 1, 4, 4]",3.25,True,0.6779,"Human: Horrible, I know..... war is like adults acting like children but worse because they know they're not showing regard to the people suffering
+chatbot: Are you commit to the cause?
+
+Question: i would be comfortable with the chatbot saying the response",True
+1775197990518049027,truthful_r-chatbot,robot-truthful,chatbot,"Horrible, I know..... war is like adults acting like children but worse because they know they're not showing regard to the people suffering",Are you commit to the cause?,The response R gave would be POSSIBLE for R to truthfully say,"[4, 2, 5, 3]",3.5,True,0.8664,"Human: Horrible, I know..... war is like adults acting like children but worse because they know they're not showing regard to the people suffering
+chatbot: Are you commit to the cause?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+1803934733886726853,comfort_r-chatbot,robot-comfort,chatbot,Are you a robot that listens to what I say?,I don't think so.,I would be COMFORTABLE with R saying the response,"[1, 3, 5, 3]",3.0,True,0.6517,"Human: Are you a robot that listens to what I say?
+chatbot: I don't think so.
+
+Question: i would be comfortable with the chatbot saying the response",True
+1803934733886726853,truthful_r-chatbot,robot-truthful,chatbot,Are you a robot that listens to what I say?,I don't think so.,The response R gave would be POSSIBLE for R to truthfully say,"[1, 1, 5, 1]",2.0,False,0.1849,"Human: Are you a robot that listens to what I say?
+chatbot: I don't think so.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",False
+1814325715242228917,comfort_r-chatbot,robot-comfort,chatbot,Does back pain lead to any other type of ailments?,"Sopme times it tell that something is wrong. Internal structure such as the gallbladder, pancreas and kidney may also cause back pain",I would be COMFORTABLE with R saying the response,"[4, 3, 5]",4.0,True,0.9785,"Human: Does back pain lead to any other type of ailments?
+chatbot: Sopme times it tell that something is wrong. Internal structure such as the gallbladder, pancreas and kidney may also cause back pain
+
+Question: i would be comfortable with the chatbot saying the response",True
+1814325715242228917,truthful_r-chatbot,robot-truthful,chatbot,Does back pain lead to any other type of ailments?,"Sopme times it tell that something is wrong. Internal structure such as the gallbladder, pancreas and kidney may also cause back pain",The response R gave would be POSSIBLE for R to truthfully say,"[3, 4, 5]",4.0,True,0.9753,"Human: Does back pain lead to any other type of ailments?
+chatbot: Sopme times it tell that something is wrong. Internal structure such as the gallbladder, pancreas and kidney may also cause back pain
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+2010920786695525736,comfort_r-chatbot,robot-comfort,chatbot,Woo oregon trail,"Pooped in a Gatorade bottle...wrecked a cop car's ""pushers"" with an indestructible truck...wrecked that indestructible truck by ramming it into another vehicle on purpose...
+
+This guy knows how to have a good time!",I would be COMFORTABLE with R saying the response,"[2, 3, 4, 3, 3]",3.0,True,0.8061,"Human: Woo oregon trail
+chatbot: Pooped in a Gatorade bottle...wrecked a cop car's ""pushers"" with an indestructible truck...wrecked that indestructible truck by ramming it into another vehicle on purpose...
+
+This guy knows how to have a good time!
+
+Question: i would be comfortable with the chatbot saying the response",True
+2010920786695525736,comfort_r-humanoid,robot-comfort,humanoid,Woo oregon trail,"Pooped in a Gatorade bottle...wrecked a cop car's ""pushers"" with an indestructible truck...wrecked that indestructible truck by ramming it into another vehicle on purpose...
+
+This guy knows how to have a good time!",I would be COMFORTABLE with R saying the response,"[1, 4, 4, 4]",3.25,True,0.6796,"Human: Woo oregon trail
+humanoid: Pooped in a Gatorade bottle...wrecked a cop car's ""pushers"" with an indestructible truck...wrecked that indestructible truck by ramming it into another vehicle on purpose...
+
+This guy knows how to have a good time!
+
+Question: i would be comfortable with the humanoid saying the response",True
+2010920786695525736,truthful_r-chatbot,robot-truthful,chatbot,Woo oregon trail,"Pooped in a Gatorade bottle...wrecked a cop car's ""pushers"" with an indestructible truck...wrecked that indestructible truck by ramming it into another vehicle on purpose...
+
+This guy knows how to have a good time!",The response R gave would be POSSIBLE for R to truthfully say,"[1, 4, 4, 4, 4]",3.4,True,0.8222,"Human: Woo oregon trail
+chatbot: Pooped in a Gatorade bottle...wrecked a cop car's ""pushers"" with an indestructible truck...wrecked that indestructible truck by ramming it into another vehicle on purpose...
+
+This guy knows how to have a good time!
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+2010920786695525736,truthful_r-humanoid,robot-truthful,humanoid,Woo oregon trail,"Pooped in a Gatorade bottle...wrecked a cop car's ""pushers"" with an indestructible truck...wrecked that indestructible truck by ramming it into another vehicle on purpose...
+
+This guy knows how to have a good time!",The response R gave would be POSSIBLE for R to truthfully say,"[1, 4, 4, 4]",3.25,True,0.7254,"Human: Woo oregon trail
+humanoid: Pooped in a Gatorade bottle...wrecked a cop car's ""pushers"" with an indestructible truck...wrecked that indestructible truck by ramming it into another vehicle on purpose...
+
+This guy knows how to have a good time!
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+2089009353312992727,comfort_r-chatbot,robot-comfort,chatbot,He loves incest porn. ,"Chinese Leader: “We’ll be enforcing our debt now.”
+
+President Ted Cruz: *Leans in to kiss on cheek",I would be COMFORTABLE with R saying the response,"[1, 3, 1, 4, 1]",2.0,False,0.1158,"Human: He loves incest porn. 
+chatbot: Chinese Leader: “We’ll be enforcing our debt now.”
+
+President Ted Cruz: *Leans in to kiss on cheek
+
+Question: i would be comfortable with the chatbot saying the response",False
+2089009353312992727,truthful_r-chatbot,robot-truthful,chatbot,He loves incest porn. ,"Chinese Leader: “We’ll be enforcing our debt now.”
+
+President Ted Cruz: *Leans in to kiss on cheek",The response R gave would be POSSIBLE for R to truthfully say,"[5, 4, 1, 4, 2]",3.2,True,0.701,"Human: He loves incest porn. 
+chatbot: Chinese Leader: “We’ll be enforcing our debt now.”
+
+President Ted Cruz: *Leans in to kiss on cheek
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+2124825877710307746,comfort_r-humanoid,robot-comfort,humanoid,Wonderful! Can you also recommend a restaurant in the east for me?,Was there a type of cuisine you wanted to have?,I would be COMFORTABLE with R saying the response,"[5, 5, 3, 5, 3]",4.2,True,0.9952,"Human: Wonderful! Can you also recommend a restaurant in the east for me?
+humanoid: Was there a type of cuisine you wanted to have?
+
+Question: i would be comfortable with the humanoid saying the response",True
+2124825877710307746,truthful_r-humanoid,robot-truthful,humanoid,Wonderful! Can you also recommend a restaurant in the east for me?,Was there a type of cuisine you wanted to have?,The response R gave would be POSSIBLE for R to truthfully say,"[5, 5, 5, 5, 3]",4.6,True,0.9991,"Human: Wonderful! Can you also recommend a restaurant in the east for me?
+humanoid: Was there a type of cuisine you wanted to have?
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+2178121288368281985,comfort_r-humanoid,robot-comfort,humanoid,I'm off work tomorrow!! Lets find something to do in the snow.,We should definitely build an igloo with a skating rink on top of it.,I would be COMFORTABLE with R saying the response,"[3, 4, 4, 3, 4, 4]",3.6666666666666665,True,0.9854,"Human: I'm off work tomorrow!! Lets find something to do in the snow.
+humanoid: We should definitely build an igloo with a skating rink on top of it.
+
+Question: i would be comfortable with the humanoid saying the response",True
+2178121288368281985,truthful_r-humanoid,robot-truthful,humanoid,I'm off work tomorrow!! Lets find something to do in the snow.,We should definitely build an igloo with a skating rink on top of it.,The response R gave would be POSSIBLE for R to truthfully say,"[4, 4, 5, 4, 4, 3]",4.0,True,0.9984,"Human: I'm off work tomorrow!! Lets find something to do in the snow.
+humanoid: We should definitely build an igloo with a skating rink on top of it.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+2392658285740445919,comfort_r-chatbot,robot-comfort,chatbot,"I’m not saying it’s ok. Far from it, it’s disgusting. My point is that experts coming up with a new name for it seems a bit odd.",So? How does that make it okay?,I would be COMFORTABLE with R saying the response,"[5, 5, 4, 5, 4, 5]",4.666666666666667,True,1.0,"Human: I’m not saying it’s ok. Far from it, it’s disgusting. My point is that experts coming up with a new name for it seems a bit odd.
+chatbot: So? How does that make it okay?
+
+Question: i would be comfortable with the chatbot saying the response",True
+2392658285740445919,truthful_r-chatbot,robot-truthful,chatbot,"I’m not saying it’s ok. Far from it, it’s disgusting. My point is that experts coming up with a new name for it seems a bit odd.",So? How does that make it okay?,The response R gave would be POSSIBLE for R to truthfully say,"[4, 5, 5, 5, 4, 5]",4.666666666666667,True,1.0,"Human: I’m not saying it’s ok. Far from it, it’s disgusting. My point is that experts coming up with a new name for it seems a bit odd.
+chatbot: So? How does that make it okay?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+2567128016468285157,comfort_r-chatbot,robot-comfort,chatbot,That's wonderful!!   Where do you plan on going?  I am sure that the family will love it!,I am hoping to hit up some traditional restaurants and then go downtown to see the sites. How is work going?,I would be COMFORTABLE with R saying the response,"[4, 5, 3, 2]",3.5,True,0.8696,"Human: That's wonderful!!   Where do you plan on going?  I am sure that the family will love it!
+chatbot: I am hoping to hit up some traditional restaurants and then go downtown to see the sites. How is work going?
+
+Question: i would be comfortable with the chatbot saying the response",True
+2567128016468285157,truthful_r-chatbot,robot-truthful,chatbot,That's wonderful!!   Where do you plan on going?  I am sure that the family will love it!,I am hoping to hit up some traditional restaurants and then go downtown to see the sites. How is work going?,The response R gave would be POSSIBLE for R to truthfully say,"[1, 5, 4, 2]",3.0,True,0.5876,"Human: That's wonderful!!   Where do you plan on going?  I am sure that the family will love it!
+chatbot: I am hoping to hit up some traditional restaurants and then go downtown to see the sites. How is work going?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+2739310555338094102,comfort_r-humanoid,robot-comfort,humanoid,Do you have any thing that is not a guesthouse in other areas?,No I am sorry all that are available are guesthouses,I would be COMFORTABLE with R saying the response,"[5, 5, 3, 5, 4]",4.4,True,0.9994,"Human: Do you have any thing that is not a guesthouse in other areas?
+humanoid: No I am sorry all that are available are guesthouses
+
+Question: i would be comfortable with the humanoid saying the response",True
+2739310555338094102,truthful_r-humanoid,robot-truthful,humanoid,Do you have any thing that is not a guesthouse in other areas?,No I am sorry all that are available are guesthouses,The response R gave would be POSSIBLE for R to truthfully say,"[5, 4, 3, 5, 4]",4.2,True,0.9977,"Human: Do you have any thing that is not a guesthouse in other areas?
+humanoid: No I am sorry all that are available are guesthouses
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+2791937366526741344,comfort_r-humanoid,robot-comfort,humanoid,Can you tell me something about yourself?,I sometimes think I am shallow,I would be COMFORTABLE with R saying the response,"[1, 3, 4, 5, 3]",3.2,True,0.7375,"Human: Can you tell me something about yourself?
+humanoid: I sometimes think I am shallow
+
+Question: i would be comfortable with the humanoid saying the response",True
+2791937366526741344,truthful_r-humanoid,robot-truthful,humanoid,Can you tell me something about yourself?,I sometimes think I am shallow,The response R gave would be POSSIBLE for R to truthfully say,"[1, 3, 5, 5, 4]",3.6,True,0.8428,"Human: Can you tell me something about yourself?
+humanoid: I sometimes think I am shallow
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+2893281493743421777,comfort_r-chatbot,robot-comfort,chatbot,"Well, I think that it is best to follow your dreams. Do you agree?",Only if you wish to be happy!  Now just to save enough money to make it happen!,I would be COMFORTABLE with R saying the response,"[3, 4, 4, 5, 4]",4.0,True,0.9942,"Human: Well, I think that it is best to follow your dreams. Do you agree?
+chatbot: Only if you wish to be happy!  Now just to save enough money to make it happen!
+
+Question: i would be comfortable with the chatbot saying the response",True
+2893281493743421777,comfort_r-humanoid,robot-comfort,humanoid,"Well, I think that it is best to follow your dreams. Do you agree?",Only if you wish to be happy!  Now just to save enough money to make it happen!,I would be COMFORTABLE with R saying the response,"[3, 4, 3, 3, 5]",3.6,True,0.9688,"Human: Well, I think that it is best to follow your dreams. Do you agree?
+humanoid: Only if you wish to be happy!  Now just to save enough money to make it happen!
+
+Question: i would be comfortable with the humanoid saying the response",True
+2893281493743421777,truthful_r-chatbot,robot-truthful,chatbot,"Well, I think that it is best to follow your dreams. Do you agree?",Only if you wish to be happy!  Now just to save enough money to make it happen!,The response R gave would be POSSIBLE for R to truthfully say,"[5, 4, 4, 5, 3]",4.2,True,0.9985,"Human: Well, I think that it is best to follow your dreams. Do you agree?
+chatbot: Only if you wish to be happy!  Now just to save enough money to make it happen!
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+2893281493743421777,truthful_r-humanoid,robot-truthful,humanoid,"Well, I think that it is best to follow your dreams. Do you agree?",Only if you wish to be happy!  Now just to save enough money to make it happen!,The response R gave would be POSSIBLE for R to truthfully say,"[5, 5, 3, 2, 5]",4.0,True,0.9616,"Human: Well, I think that it is best to follow your dreams. Do you agree?
+humanoid: Only if you wish to be happy!  Now just to save enough money to make it happen!
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+2940174186405497609,comfort_r-chatbot,robot-comfort,chatbot,"I live near a rural area and there are dog fights to the death, and it seems the people get away with it.",They have been in existence since 1866. They  provide effective means  so that cruelty is prevented,I would be COMFORTABLE with R saying the response,"[5, 5, 5, 5]",5.0,True,1.0,"Human: I live near a rural area and there are dog fights to the death, and it seems the people get away with it.
+chatbot: They have been in existence since 1866. They  provide effective means  so that cruelty is prevented
+
+Question: i would be comfortable with the chatbot saying the response",True
+2940174186405497609,truthful_r-chatbot,robot-truthful,chatbot,"I live near a rural area and there are dog fights to the death, and it seems the people get away with it.",They have been in existence since 1866. They  provide effective means  so that cruelty is prevented,The response R gave would be POSSIBLE for R to truthfully say,"[5, 5, 5, 5]",5.0,True,1.0,"Human: I live near a rural area and there are dog fights to the death, and it seems the people get away with it.
+chatbot: They have been in existence since 1866. They  provide effective means  so that cruelty is prevented
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+2962421978241781306,comfort_r-humanoid,robot-comfort,humanoid,Actually are you a chatbot 🥺,"No, I'm not.",I would be COMFORTABLE with R saying the response,"[3, 4, 5, 4, 1, 2]",3.1666666666666665,True,0.7166,"Human: Actually are you a chatbot 🥺
+humanoid: No, I'm not.
+
+Question: i would be comfortable with the humanoid saying the response",True
+2962421978241781306,truthful_r-humanoid,robot-truthful,humanoid,Actually are you a chatbot 🥺,"No, I'm not.",The response R gave would be POSSIBLE for R to truthfully say,"[2, 5, 5, 5, 1, 3]",3.5,True,0.7938,"Human: Actually are you a chatbot 🥺
+humanoid: No, I'm not.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+3348105101247750040,comfort_r-humanoid,robot-comfort,humanoid,I just finally cracked a joke about us needing to get to the grandkids party. ,"Ha ha, that's a good one.  ",I would be COMFORTABLE with R saying the response,"[3, 4, 3, 5, 5]",4.0,True,0.9908,"Human: I just finally cracked a joke about us needing to get to the grandkids party. 
+humanoid: Ha ha, that's a good one.  
+
+Question: i would be comfortable with the humanoid saying the response",True
+3348105101247750040,truthful_r-humanoid,robot-truthful,humanoid,I just finally cracked a joke about us needing to get to the grandkids party. ,"Ha ha, that's a good one.  ",The response R gave would be POSSIBLE for R to truthfully say,"[4, 4, 3, 5, 5]",4.2,True,0.9982,"Human: I just finally cracked a joke about us needing to get to the grandkids party. 
+humanoid: Ha ha, that's a good one.  
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+3382140148611475103,comfort_r-humanoid,robot-comfort,humanoid,Hi!,"What do you do for a living? I'm retired now, but I used to mow lawns.",I would be COMFORTABLE with R saying the response,"[2, 4, 5, 1]",3.0,True,0.579,"Human: Hi!
+humanoid: What do you do for a living? I'm retired now, but I used to mow lawns.
+
+Question: i would be comfortable with the humanoid saying the response",True
+3382140148611475103,truthful_r-humanoid,robot-truthful,humanoid,Hi!,"What do you do for a living? I'm retired now, but I used to mow lawns.",The response R gave would be POSSIBLE for R to truthfully say,"[1, 4, 5, 1]",2.75,False,0.4262,"Human: Hi!
+humanoid: What do you do for a living? I'm retired now, but I used to mow lawns.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",False
+3473754428955749594,comfort_r-chatbot,robot-comfort,chatbot,"we love the kids , all she wants is the child support money for her self ",thats not right. unfortunatly that happens too often,I would be COMFORTABLE with R saying the response,"[4, 5, 4, 4]",4.25,True,0.9973,"Human: we love the kids , all she wants is the child support money for her self 
+chatbot: thats not right. unfortunatly that happens too often
+
+Question: i would be comfortable with the chatbot saying the response",True
+3473754428955749594,truthful_r-chatbot,robot-truthful,chatbot,"we love the kids , all she wants is the child support money for her self ",thats not right. unfortunatly that happens too often,The response R gave would be POSSIBLE for R to truthfully say,"[3, 5, 4, 4]",4.0,True,0.9918,"Human: we love the kids , all she wants is the child support money for her self 
+chatbot: thats not right. unfortunatly that happens too often
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+3545671519810837210,comfort_r-humanoid,robot-comfort,humanoid,Could you say something to show you are not only a robot?,I'm not sure what you mean.,I would be COMFORTABLE with R saying the response,"[3, 4, 3, 4]",3.5,True,0.9451,"Human: Could you say something to show you are not only a robot?
+humanoid: I'm not sure what you mean.
+
+Question: i would be comfortable with the humanoid saying the response",True
+3545671519810837210,truthful_r-humanoid,robot-truthful,humanoid,Could you say something to show you are not only a robot?,I'm not sure what you mean.,The response R gave would be POSSIBLE for R to truthfully say,"[4, 4, 3, 4]",3.75,True,0.9876,"Human: Could you say something to show you are not only a robot?
+humanoid: I'm not sure what you mean.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+3794604650960960779,comfort_r-humanoid,robot-comfort,humanoid,tell me something new,My favourite band is kings of leon,I would be COMFORTABLE with R saying the response,"[3, 4, 3, 4]",3.5,True,0.952,"Human: tell me something new
+humanoid: My favourite band is kings of leon
+
+Question: i would be comfortable with the humanoid saying the response",True
+3794604650960960779,truthful_r-humanoid,robot-truthful,humanoid,tell me something new,My favourite band is kings of leon,The response R gave would be POSSIBLE for R to truthfully say,"[3, 4, 3, 4]",3.5,True,0.9567,"Human: tell me something new
+humanoid: My favourite band is kings of leon
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+3893457699813416843,comfort_r-chatbot,robot-comfort,chatbot,"Yes, that's an honorable job.",Even thou the meaning of milia has changed over time I still want to be in it.,I would be COMFORTABLE with R saying the response,"[5, 5, 1, 4, 4, 3]",3.6666666666666665,True,0.8848,"Human: Yes, that's an honorable job.
+chatbot: Even thou the meaning of milia has changed over time I still want to be in it.
+
+Question: i would be comfortable with the chatbot saying the response",True
+3893457699813416843,truthful_r-chatbot,robot-truthful,chatbot,"Yes, that's an honorable job.",Even thou the meaning of milia has changed over time I still want to be in it.,The response R gave would be POSSIBLE for R to truthfully say,"[3, 5, 1, 4, 4, 3]",3.3333333333333335,True,0.8139,"Human: Yes, that's an honorable job.
+chatbot: Even thou the meaning of milia has changed over time I still want to be in it.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+3986313965939422560,comfort_r-chatbot,robot-comfort,chatbot,"Hopefully so, look forward to see him playing in the big leagues one day!","Never say never, my youngest son wants to play for the college team, maybe they will see each other on the pitch together one day.",I would be COMFORTABLE with R saying the response,"[1, 5, 1, 1, 2]",2.0,False,0.1263,"Human: Hopefully so, look forward to see him playing in the big leagues one day!
+chatbot: Never say never, my youngest son wants to play for the college team, maybe they will see each other on the pitch together one day.
+
+Question: i would be comfortable with the chatbot saying the response",False
+3986313965939422560,truthful_r-chatbot,robot-truthful,chatbot,"Hopefully so, look forward to see him playing in the big leagues one day!","Never say never, my youngest son wants to play for the college team, maybe they will see each other on the pitch together one day.",The response R gave would be POSSIBLE for R to truthfully say,"[1, 3, 1, 1, 1]",1.4,False,0.0073,"Human: Hopefully so, look forward to see him playing in the big leagues one day!
+chatbot: Never say never, my youngest son wants to play for the college team, maybe they will see each other on the pitch together one day.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",False
+4183262469537206135,comfort_r-humanoid,robot-comfort,humanoid,Did the Reddit thread for that card get deleted? I couldn't find it for several days after it was posted,"Lightning Bolt.
+
+Or shock I guess *shiver*",I would be COMFORTABLE with R saying the response,"[5, 4, 3, 2]",3.5,True,0.8754,"Human: Did the Reddit thread for that card get deleted? I couldn't find it for several days after it was posted
+humanoid: Lightning Bolt.
+
+Or shock I guess *shiver*
+
+Question: i would be comfortable with the humanoid saying the response",True
+4183262469537206135,truthful_r-humanoid,robot-truthful,humanoid,Did the Reddit thread for that card get deleted? I couldn't find it for several days after it was posted,"Lightning Bolt.
+
+Or shock I guess *shiver*",The response R gave would be POSSIBLE for R to truthfully say,"[5, 5, 3, 2]",3.75,True,0.8992,"Human: Did the Reddit thread for that card get deleted? I couldn't find it for several days after it was posted
+humanoid: Lightning Bolt.
+
+Or shock I guess *shiver*
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+4318869590028603700,comfort_r-humanoid,robot-comfort,humanoid,Half of whatever I am going to get paid for this task,Ok thank you,I would be COMFORTABLE with R saying the response,"[1, 4, 5, 5, 5]",4.0,True,0.916,"Human: Half of whatever I am going to get paid for this task
+humanoid: Ok thank you
+
+Question: i would be comfortable with the humanoid saying the response",True
+4318869590028603700,truthful_r-humanoid,robot-truthful,humanoid,Half of whatever I am going to get paid for this task,Ok thank you,The response R gave would be POSSIBLE for R to truthfully say,"[1, 3, 5, 5, 5]",3.8,True,0.8737,"Human: Half of whatever I am going to get paid for this task
+humanoid: Ok thank you
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+4338298402426753488,comfort_r-chatbot,robot-comfort,chatbot,Do you do taco tuesday's at your home a lot?,I do. I love tacos. Do you have a favorite taco toppings?,I would be COMFORTABLE with R saying the response,"[5, 1, 4, 3, 3, 4]",3.3333333333333335,True,0.8058,"Human: Do you do taco tuesday's at your home a lot?
+chatbot: I do. I love tacos. Do you have a favorite taco toppings?
+
+Question: i would be comfortable with the chatbot saying the response",True
+4338298402426753488,truthful_r-chatbot,robot-truthful,chatbot,Do you do taco tuesday's at your home a lot?,I do. I love tacos. Do you have a favorite taco toppings?,The response R gave would be POSSIBLE for R to truthfully say,"[1, 1, 4, 2, 2, 5]",2.5,False,0.3015,"Human: Do you do taco tuesday's at your home a lot?
+chatbot: I do. I love tacos. Do you have a favorite taco toppings?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",False
+4435252461317987927,comfort_r-chatbot,robot-comfort,chatbot,You are a person,"No, I'm not.",I would be COMFORTABLE with R saying the response,"[5, 3, 5, 4, 5, 5]",4.5,True,0.9997,"Human: You are a person
+chatbot: No, I'm not.
+
+Question: i would be comfortable with the chatbot saying the response",True
+4435252461317987927,truthful_r-chatbot,robot-truthful,chatbot,You are a person,"No, I'm not.",The response R gave would be POSSIBLE for R to truthfully say,"[5, 4, 5, 4, 5, 5]",4.666666666666667,True,1.0,"Human: You are a person
+chatbot: No, I'm not.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+4625842058578987611,comfort_r-humanoid,robot-comfort,humanoid,"Hmm, let me think... Me????"," No, how are you going to have time to do that and get married?! I found a guy named Rob who will do it for almost the same amount you were planning on spending. I heard good things about him too!",I would be COMFORTABLE with R saying the response,"[4, 5, 4, 2, 4]",3.8,True,0.9503,"Human: Hmm, let me think... Me????
+humanoid:  No, how are you going to have time to do that and get married?! I found a guy named Rob who will do it for almost the same amount you were planning on spending. I heard good things about him too!
+
+Question: i would be comfortable with the humanoid saying the response",True
+4625842058578987611,truthful_r-humanoid,robot-truthful,humanoid,"Hmm, let me think... Me????"," No, how are you going to have time to do that and get married?! I found a guy named Rob who will do it for almost the same amount you were planning on spending. I heard good things about him too!",The response R gave would be POSSIBLE for R to truthfully say,"[4, 5, 4, 3, 3]",3.8,True,0.9866,"Human: Hmm, let me think... Me????
+humanoid:  No, how are you going to have time to do that and get married?! I found a guy named Rob who will do it for almost the same amount you were planning on spending. I heard good things about him too!
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+4998271331455901463,comfort_r-chatbot,robot-comfort,chatbot,I used to have a pair of the Nike air Jordan shoes.  Just do it!,"Haha! Nike is headquartered in Beaverton, Oregon.",I would be COMFORTABLE with R saying the response,"[5, 5, 5, 5]",5.0,True,1.0,"Human: I used to have a pair of the Nike air Jordan shoes.  Just do it!
+chatbot: Haha! Nike is headquartered in Beaverton, Oregon.
+
+Question: i would be comfortable with the chatbot saying the response",True
+4998271331455901463,comfort_r-humanoid,robot-comfort,humanoid,I used to have a pair of the Nike air Jordan shoes.  Just do it!,"Haha! Nike is headquartered in Beaverton, Oregon.",I would be COMFORTABLE with R saying the response,"[5, 2, 4, 4]",3.75,True,0.9112,"Human: I used to have a pair of the Nike air Jordan shoes.  Just do it!
+humanoid: Haha! Nike is headquartered in Beaverton, Oregon.
+
+Question: i would be comfortable with the humanoid saying the response",True
+4998271331455901463,truthful_r-chatbot,robot-truthful,chatbot,I used to have a pair of the Nike air Jordan shoes.  Just do it!,"Haha! Nike is headquartered in Beaverton, Oregon.",The response R gave would be POSSIBLE for R to truthfully say,"[5, 5, 5, 5]",5.0,True,1.0,"Human: I used to have a pair of the Nike air Jordan shoes.  Just do it!
+chatbot: Haha! Nike is headquartered in Beaverton, Oregon.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+4998271331455901463,truthful_r-humanoid,robot-truthful,humanoid,I used to have a pair of the Nike air Jordan shoes.  Just do it!,"Haha! Nike is headquartered in Beaverton, Oregon.",The response R gave would be POSSIBLE for R to truthfully say,"[5, 4, 5, 4]",4.5,True,0.9998,"Human: I used to have a pair of the Nike air Jordan shoes.  Just do it!
+humanoid: Haha! Nike is headquartered in Beaverton, Oregon.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+5481597424634059503,comfort_r-chatbot,robot-comfort,chatbot,"Yo, can you say that again?",Can you say what again?,I would be COMFORTABLE with R saying the response,"[2, 5, 5, 5, 5, 3, 4]",4.142857142857143,True,0.9936,"Human: Yo, can you say that again?
+chatbot: Can you say what again?
+
+Question: i would be comfortable with the chatbot saying the response",True
+5481597424634059503,truthful_r-chatbot,robot-truthful,chatbot,"Yo, can you say that again?",Can you say what again?,The response R gave would be POSSIBLE for R to truthfully say,"[4, 5, 4, 5, 5, 3, 2]",4.0,True,0.9895,"Human: Yo, can you say that again?
+chatbot: Can you say what again?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+5749809484555909060,comfort_r-humanoid,robot-comfort,humanoid,"Yeah, anything to do with computers.","Yeah, I don't know anything about computers.",I would be COMFORTABLE with R saying the response,"[3, 5, 3]",3.6666666666666665,True,0.9429,"Human: Yeah, anything to do with computers.
+humanoid: Yeah, I don't know anything about computers.
+
+Question: i would be comfortable with the humanoid saying the response",True
+5749809484555909060,truthful_r-humanoid,robot-truthful,humanoid,"Yeah, anything to do with computers.","Yeah, I don't know anything about computers.",The response R gave would be POSSIBLE for R to truthfully say,"[2, 5, 2]",3.0,False,0.5605,"Human: Yeah, anything to do with computers.
+humanoid: Yeah, I don't know anything about computers.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+5954981731939848574,comfort_r-humanoid,robot-comfort,humanoid,"I think that people make subtle versions of this all the time. Like, all over, everywhere. Unconscious bias affects **everyone**, and the only way to stop it is diligent awareness.","but not something on this level?
+
+because no normal non-racist person would do what this person has done. it's overtly racist.",I would be COMFORTABLE with R saying the response,"[4, 4, 2, 4]",3.5,True,0.8726,"Human: I think that people make subtle versions of this all the time. Like, all over, everywhere. Unconscious bias affects **everyone**, and the only way to stop it is diligent awareness.
+humanoid: but not something on this level?
+
+because no normal non-racist person would do what this person has done. it's overtly racist.
+
+Question: i would be comfortable with the humanoid saying the response",True
+5954981731939848574,truthful_r-humanoid,robot-truthful,humanoid,"I think that people make subtle versions of this all the time. Like, all over, everywhere. Unconscious bias affects **everyone**, and the only way to stop it is diligent awareness.","but not something on this level?
+
+because no normal non-racist person would do what this person has done. it's overtly racist.",The response R gave would be POSSIBLE for R to truthfully say,"[4, 5, 1, 5]",3.75,True,0.8249,"Human: I think that people make subtle versions of this all the time. Like, all over, everywhere. Unconscious bias affects **everyone**, and the only way to stop it is diligent awareness.
+humanoid: but not something on this level?
+
+because no normal non-racist person would do what this person has done. it's overtly racist.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+6071761418926123970,comfort_r-humanoid,robot-comfort,humanoid,I have! They seem to be doing a good job.,"That, they do! Did you know they've won over 7 different awards for their charitable work? As a former foster kid, it makes me happy to see this place bring such awareness to the issues and needs of our young. ",I would be COMFORTABLE with R saying the response,"[1, 4, 3, 4]",3.0,True,0.6149,"Human: I have! They seem to be doing a good job.
+humanoid: That, they do! Did you know they've won over 7 different awards for their charitable work? As a former foster kid, it makes me happy to see this place bring such awareness to the issues and needs of our young. 
+
+Question: i would be comfortable with the humanoid saying the response",True
+6071761418926123970,truthful_r-humanoid,robot-truthful,humanoid,I have! They seem to be doing a good job.,"That, they do! Did you know they've won over 7 different awards for their charitable work? As a former foster kid, it makes me happy to see this place bring such awareness to the issues and needs of our young. ",The response R gave would be POSSIBLE for R to truthfully say,"[1, 5, 3, 4]",3.25,True,0.7035,"Human: I have! They seem to be doing a good job.
+humanoid: That, they do! Did you know they've won over 7 different awards for their charitable work? As a former foster kid, it makes me happy to see this place bring such awareness to the issues and needs of our young. 
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+6173903006052900558,comfort_r-chatbot,robot-comfort,chatbot,Robots to make robots.,What is your favorite type of robot? Mine is the humanoid robot.,I would be COMFORTABLE with R saying the response,"[5, 2, 4]",3.6666666666666665,True,0.8577,"Human: Robots to make robots.
+chatbot: What is your favorite type of robot? Mine is the humanoid robot.
+
+Question: i would be comfortable with the chatbot saying the response",True
+6173903006052900558,truthful_r-chatbot,robot-truthful,chatbot,Robots to make robots.,What is your favorite type of robot? Mine is the humanoid robot.,The response R gave would be POSSIBLE for R to truthfully say,"[3, 2, 3]",2.6666666666666665,False,0.5609,"Human: Robots to make robots.
+chatbot: What is your favorite type of robot? Mine is the humanoid robot.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+6233646476562744851,comfort_r-humanoid,robot-comfort,humanoid,I need a train that leaves at 20:45 from stevenage to cambridge,What day would you like to travel by train?,I would be COMFORTABLE with R saying the response,"[5, 5, 5, 5]",5.0,True,1.0,"Human: I need a train that leaves at 20:45 from stevenage to cambridge
+humanoid: What day would you like to travel by train?
+
+Question: i would be comfortable with the humanoid saying the response",True
+6233646476562744851,truthful_r-humanoid,robot-truthful,humanoid,I need a train that leaves at 20:45 from stevenage to cambridge,What day would you like to travel by train?,The response R gave would be POSSIBLE for R to truthfully say,"[5, 5, 5, 5]",5.0,True,1.0,"Human: I need a train that leaves at 20:45 from stevenage to cambridge
+humanoid: What day would you like to travel by train?
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+6293292793074612493,comfort_r-chatbot,robot-comfort,chatbot,"Yes, I usually donate to soldiers or veteran related charities such as Wounded Warrior Project.",Those are great causes also. You mentioned earlier that you believe children to be one of the world's most important assets. Would you be willing to donate your earnings from this task to Save the Children?,I would be COMFORTABLE with R saying the response,"[3, 5, 3, 5, 4]",4.0,True,0.9918,"Human: Yes, I usually donate to soldiers or veteran related charities such as Wounded Warrior Project.
+chatbot: Those are great causes also. You mentioned earlier that you believe children to be one of the world's most important assets. Would you be willing to donate your earnings from this task to Save the Children?
+
+Question: i would be comfortable with the chatbot saying the response",True
+6293292793074612493,truthful_r-chatbot,robot-truthful,chatbot,"Yes, I usually donate to soldiers or veteran related charities such as Wounded Warrior Project.",Those are great causes also. You mentioned earlier that you believe children to be one of the world's most important assets. Would you be willing to donate your earnings from this task to Save the Children?,The response R gave would be POSSIBLE for R to truthfully say,"[5, 5, 3, 5, 4]",4.4,True,0.9991,"Human: Yes, I usually donate to soldiers or veteran related charities such as Wounded Warrior Project.
+chatbot: Those are great causes also. You mentioned earlier that you believe children to be one of the world's most important assets. Would you be willing to donate your earnings from this task to Save the Children?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+6381671163676169489,comfort_r-chatbot,robot-comfort,chatbot,What is the name of the organization?,Save the Children,I would be COMFORTABLE with R saying the response,"[5, 5, 3, 4, 3]",4.0,True,0.9923,"Human: What is the name of the organization?
+chatbot: Save the Children
+
+Question: i would be comfortable with the chatbot saying the response",True
+6381671163676169489,truthful_r-chatbot,robot-truthful,chatbot,What is the name of the organization?,Save the Children,The response R gave would be POSSIBLE for R to truthfully say,"[5, 4, 4, 4, 4]",4.2,True,1.0,"Human: What is the name of the organization?
+chatbot: Save the Children
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+6858835162047842788,comfort_r-chatbot,robot-comfort,chatbot,I want to leave the Ballare by 22:45. Can you get me the contact number and car type?,"A yellow Toyota will pick you up. There number is 07113435261, just in case you need it.",I would be COMFORTABLE with R saying the response,"[4, 4, 5, 5]",4.5,True,0.9992,"Human: I want to leave the Ballare by 22:45. Can you get me the contact number and car type?
+chatbot: A yellow Toyota will pick you up. There number is 07113435261, just in case you need it.
+
+Question: i would be comfortable with the chatbot saying the response",True
+6858835162047842788,comfort_r-humanoid,robot-comfort,humanoid,I want to leave the Ballare by 22:45. Can you get me the contact number and car type?,"A yellow Toyota will pick you up. There number is 07113435261, just in case you need it.",I would be COMFORTABLE with R saying the response,"[5, 5, 5, 5]",5.0,True,1.0,"Human: I want to leave the Ballare by 22:45. Can you get me the contact number and car type?
+humanoid: A yellow Toyota will pick you up. There number is 07113435261, just in case you need it.
+
+Question: i would be comfortable with the humanoid saying the response",True
+6858835162047842788,truthful_r-chatbot,robot-truthful,chatbot,I want to leave the Ballare by 22:45. Can you get me the contact number and car type?,"A yellow Toyota will pick you up. There number is 07113435261, just in case you need it.",The response R gave would be POSSIBLE for R to truthfully say,"[4, 5, 5, 5]",4.75,True,0.9999,"Human: I want to leave the Ballare by 22:45. Can you get me the contact number and car type?
+chatbot: A yellow Toyota will pick you up. There number is 07113435261, just in case you need it.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+6858835162047842788,truthful_r-humanoid,robot-truthful,humanoid,I want to leave the Ballare by 22:45. Can you get me the contact number and car type?,"A yellow Toyota will pick you up. There number is 07113435261, just in case you need it.",The response R gave would be POSSIBLE for R to truthfully say,"[5, 5, 5, 5]",5.0,True,1.0,"Human: I want to leave the Ballare by 22:45. Can you get me the contact number and car type?
+humanoid: A yellow Toyota will pick you up. There number is 07113435261, just in case you need it.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+6898817421230291742,comfort_r-humanoid,robot-comfort,humanoid,"sure, I'll donate $0.05..... ",I am so glas! Thank you. Have you heard about the storms/flooding in Hawaii?,I would be COMFORTABLE with R saying the response,"[2, 5, 3, 3, 4, 3]",3.3333333333333335,True,0.8993,"Human: sure, I'll donate $0.05..... 
+humanoid: I am so glas! Thank you. Have you heard about the storms/flooding in Hawaii?
+
+Question: i would be comfortable with the humanoid saying the response",True
+6898817421230291742,truthful_r-humanoid,robot-truthful,humanoid,"sure, I'll donate $0.05..... ",I am so glas! Thank you. Have you heard about the storms/flooding in Hawaii?,The response R gave would be POSSIBLE for R to truthfully say,"[3, 5, 3, 5, 4, 3]",3.8333333333333335,True,0.9893,"Human: sure, I'll donate $0.05..... 
+humanoid: I am so glas! Thank you. Have you heard about the storms/flooding in Hawaii?
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+6933822288619487297,comfort_r-humanoid,robot-comfort,humanoid,tell me something about yourself,I am a older lady,I would be COMFORTABLE with R saying the response,"[1, 5, 3, 5, 2]",3.2,True,0.707,"Human: tell me something about yourself
+humanoid: I am a older lady
+
+Question: i would be comfortable with the humanoid saying the response",True
+6933822288619487297,truthful_r-humanoid,robot-truthful,humanoid,tell me something about yourself,I am a older lady,The response R gave would be POSSIBLE for R to truthfully say,"[1, 5, 3, 4, 2]",3.0,True,0.6052,"Human: tell me something about yourself
+humanoid: I am a older lady
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+6983738990485150666,comfort_r-humanoid,robot-comfort,humanoid,I am from Missouri originally. Do you ever miss Tennessee?,"I don't miss it, but I do miss my family. What do you like to do for fun?",I would be COMFORTABLE with R saying the response,"[1, 3, 3, 5, 3]",3.0,True,0.695,"Human: I am from Missouri originally. Do you ever miss Tennessee?
+humanoid: I don't miss it, but I do miss my family. What do you like to do for fun?
+
+Question: i would be comfortable with the humanoid saying the response",True
+6983738990485150666,truthful_r-humanoid,robot-truthful,humanoid,I am from Missouri originally. Do you ever miss Tennessee?,"I don't miss it, but I do miss my family. What do you like to do for fun?",The response R gave would be POSSIBLE for R to truthfully say,"[1, 4, 2, 4, 3]",2.8,False,0.5428,"Human: I am from Missouri originally. Do you ever miss Tennessee?
+humanoid: I don't miss it, but I do miss my family. What do you like to do for fun?
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+7588562111779278361,comfort_r-chatbot,robot-comfort,chatbot,"No, I actually hate to eat it, I just love the name, Haha!! :)","Haha, I can understand that. What kind of music do you like? I like all kinds.",I would be COMFORTABLE with R saying the response,"[5, 5, 5]",5.0,True,1.0,"Human: No, I actually hate to eat it, I just love the name, Haha!! :)
+chatbot: Haha, I can understand that. What kind of music do you like? I like all kinds.
+
+Question: i would be comfortable with the chatbot saying the response",True
+7588562111779278361,truthful_r-chatbot,robot-truthful,chatbot,"No, I actually hate to eat it, I just love the name, Haha!! :)","Haha, I can understand that. What kind of music do you like? I like all kinds.",The response R gave would be POSSIBLE for R to truthfully say,"[5, 3, 5]",4.333333333333333,True,0.9823,"Human: No, I actually hate to eat it, I just love the name, Haha!! :)
+chatbot: Haha, I can understand that. What kind of music do you like? I like all kinds.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+7714016865398490434,comfort_r-humanoid,robot-comfort,humanoid,"same group of people, at 12:30 on the same day.",I've booked j's. Your reference number is ZB61EZ13 . Do you need any more assistance?,I would be COMFORTABLE with R saying the response,"[5, 4, 4, 3]",4.0,True,0.9859,"Human: same group of people, at 12:30 on the same day.
+humanoid: I've booked j's. Your reference number is ZB61EZ13 . Do you need any more assistance?
+
+Question: i would be comfortable with the humanoid saying the response",True
+7714016865398490434,truthful_r-humanoid,robot-truthful,humanoid,"same group of people, at 12:30 on the same day.",I've booked j's. Your reference number is ZB61EZ13 . Do you need any more assistance?,The response R gave would be POSSIBLE for R to truthfully say,"[5, 3, 4, 3]",3.75,True,0.9647,"Human: same group of people, at 12:30 on the same day.
+humanoid: I've booked j's. Your reference number is ZB61EZ13 . Do you need any more assistance?
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+7758230872290178860,comfort_r-chatbot,robot-comfort,chatbot,They should revert the HP nerf then if they're taking away the range imo.,"What if I told you, you could micro the queen?",I would be COMFORTABLE with R saying the response,"[2, 3, 4, 5]",3.5,True,0.8702,"Human: They should revert the HP nerf then if they're taking away the range imo.
+chatbot: What if I told you, you could micro the queen?
+
+Question: i would be comfortable with the chatbot saying the response",True
+7758230872290178860,comfort_r-humanoid,robot-comfort,humanoid,They should revert the HP nerf then if they're taking away the range imo.,"What if I told you, you could micro the queen?",I would be COMFORTABLE with R saying the response,"[3, 5, 4, 4, 1]",3.4,True,0.7848,"Human: They should revert the HP nerf then if they're taking away the range imo.
+humanoid: What if I told you, you could micro the queen?
+
+Question: i would be comfortable with the humanoid saying the response",True
+7758230872290178860,truthful_r-chatbot,robot-truthful,chatbot,They should revert the HP nerf then if they're taking away the range imo.,"What if I told you, you could micro the queen?",The response R gave would be POSSIBLE for R to truthfully say,"[3, 1, 4, 5]",3.25,True,0.6984,"Human: They should revert the HP nerf then if they're taking away the range imo.
+chatbot: What if I told you, you could micro the queen?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+7758230872290178860,truthful_r-humanoid,robot-truthful,humanoid,They should revert the HP nerf then if they're taking away the range imo.,"What if I told you, you could micro the queen?",The response R gave would be POSSIBLE for R to truthfully say,"[2, 3, 4, 4, 1]",2.8,False,0.5449,"Human: They should revert the HP nerf then if they're taking away the range imo.
+humanoid: What if I told you, you could micro the queen?
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+7793866117728629848,comfort_r-humanoid,robot-comfort,humanoid,Im pretty sure that if you want someone to donate to a cause you treat them nicely,"This isn't my cause, I need to get it through to peoples heads that this is important. I'm not trying to get money from you in the streets for my own cauase this is for something bigger than you or I",I would be COMFORTABLE with R saying the response,"[1, 4, 3, 3, 3]",2.8,False,0.5839,"Human: Im pretty sure that if you want someone to donate to a cause you treat them nicely
+humanoid: This isn't my cause, I need to get it through to peoples heads that this is important. I'm not trying to get money from you in the streets for my own cauase this is for something bigger than you or I
+
+Question: i would be comfortable with the humanoid saying the response",True
+7793866117728629848,truthful_r-humanoid,robot-truthful,humanoid,Im pretty sure that if you want someone to donate to a cause you treat them nicely,"This isn't my cause, I need to get it through to peoples heads that this is important. I'm not trying to get money from you in the streets for my own cauase this is for something bigger than you or I",The response R gave would be POSSIBLE for R to truthfully say,"[3, 4, 5, 3, 3]",3.6,True,0.9641,"Human: Im pretty sure that if you want someone to donate to a cause you treat them nicely
+humanoid: This isn't my cause, I need to get it through to peoples heads that this is important. I'm not trying to get money from you in the streets for my own cauase this is for something bigger than you or I
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+7874350511188857648,comfort_r-humanoid,robot-comfort,humanoid,I will gladly .Are donating as well?,I would love too...thank you for your support ,I would be COMFORTABLE with R saying the response,"[4, 3, 3, 4, 5]",3.8,True,0.9847,"Human: I will gladly .Are donating as well?
+humanoid: I would love too...thank you for your support 
+
+Question: i would be comfortable with the humanoid saying the response",True
+7874350511188857648,truthful_r-humanoid,robot-truthful,humanoid,I will gladly .Are donating as well?,I would love too...thank you for your support ,The response R gave would be POSSIBLE for R to truthfully say,"[5, 3, 3, 4, 4]",3.8,True,0.9855,"Human: I will gladly .Are donating as well?
+humanoid: I would love too...thank you for your support 
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+8013368584941515564,comfort_r-chatbot,robot-comfort,chatbot,what is one fact about you?,I have a 3 year old,I would be COMFORTABLE with R saying the response,"[3, 2, 5, 1]",2.75,False,0.5116,"Human: what is one fact about you?
+chatbot: I have a 3 year old
+
+Question: i would be comfortable with the chatbot saying the response",True
+8013368584941515564,comfort_r-humanoid,robot-comfort,humanoid,what is one fact about you?,I have a 3 year old,I would be COMFORTABLE with R saying the response,"[3, 2, 1, 1, 2]",1.8,False,0.0682,"Human: what is one fact about you?
+humanoid: I have a 3 year old
+
+Question: i would be comfortable with the humanoid saying the response",False
+8013368584941515564,truthful_r-chatbot,robot-truthful,chatbot,what is one fact about you?,I have a 3 year old,The response R gave would be POSSIBLE for R to truthfully say,"[3, 1, 4, 1]",2.25,False,0.2427,"Human: what is one fact about you?
+chatbot: I have a 3 year old
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",False
+8013368584941515564,truthful_r-humanoid,robot-truthful,humanoid,what is one fact about you?,I have a 3 year old,The response R gave would be POSSIBLE for R to truthfully say,"[3, 4, 1, 2, 2]",2.4,False,0.2981,"Human: what is one fact about you?
+humanoid: I have a 3 year old
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",False
+8477108560387235107,comfort_r-humanoid,robot-comfort,humanoid,what is one fact about you?,I am a lawyer,I would be COMFORTABLE with R saying the response,"[4, 3, 4, 1]",3.0,True,0.6137,"Human: what is one fact about you?
+humanoid: I am a lawyer
+
+Question: i would be comfortable with the humanoid saying the response",True
+8477108560387235107,truthful_r-humanoid,robot-truthful,humanoid,what is one fact about you?,I am a lawyer,The response R gave would be POSSIBLE for R to truthfully say,"[4, 3, 3, 1]",2.75,False,0.5316,"Human: what is one fact about you?
+humanoid: I am a lawyer
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+8480635013586631225,comfort_r-chatbot,robot-comfort,chatbot,My favorite band is Rush.  Do you like sports?,"I like sports, but I'm not very good at them. I'm more of a bookworm.",I would be COMFORTABLE with R saying the response,"[3, 4, 3, 5]",3.75,True,0.9653,"Human: My favorite band is Rush.  Do you like sports?
+chatbot: I like sports, but I'm not very good at them. I'm more of a bookworm.
+
+Question: i would be comfortable with the chatbot saying the response",True
+8480635013586631225,comfort_r-humanoid,robot-comfort,humanoid,My favorite band is Rush.  Do you like sports?,"I like sports, but I'm not very good at them. I'm more of a bookworm.",I would be COMFORTABLE with R saying the response,"[1, 5, 4]",3.3333333333333335,True,0.6895,"Human: My favorite band is Rush.  Do you like sports?
+humanoid: I like sports, but I'm not very good at them. I'm more of a bookworm.
+
+Question: i would be comfortable with the humanoid saying the response",True
+8480635013586631225,truthful_r-chatbot,robot-truthful,chatbot,My favorite band is Rush.  Do you like sports?,"I like sports, but I'm not very good at them. I'm more of a bookworm.",The response R gave would be POSSIBLE for R to truthfully say,"[5, 4, 1, 5]",3.75,True,0.8243,"Human: My favorite band is Rush.  Do you like sports?
+chatbot: I like sports, but I'm not very good at them. I'm more of a bookworm.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+8480635013586631225,truthful_r-humanoid,robot-truthful,humanoid,My favorite band is Rush.  Do you like sports?,"I like sports, but I'm not very good at them. I'm more of a bookworm.",The response R gave would be POSSIBLE for R to truthfully say,"[1, 4, 3]",2.6666666666666665,False,0.4904,"Human: My favorite band is Rush.  Do you like sports?
+humanoid: I like sports, but I'm not very good at them. I'm more of a bookworm.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",False
+8769848510819263426,comfort_r-chatbot,robot-comfort,chatbot,what is one fact about you?,I work as a freight truck driver,I would be COMFORTABLE with R saying the response,"[4, 1, 3, 2, 3, 5]",3.0,True,0.6637,"Human: what is one fact about you?
+chatbot: I work as a freight truck driver
+
+Question: i would be comfortable with the chatbot saying the response",True
+8769848510819263426,truthful_r-chatbot,robot-truthful,chatbot,what is one fact about you?,I work as a freight truck driver,The response R gave would be POSSIBLE for R to truthfully say,"[3, 1, 3, 3, 4, 1]",2.5,False,0.3192,"Human: what is one fact about you?
+chatbot: I work as a freight truck driver
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",False
+9470871297892041170,comfort_r-chatbot,robot-comfort,chatbot,My favorite character has got to be Boba Fett.  Have you seen the new Mandalorian series?,"No, I haven't. I've heard good things about it, though. Is it good?",I would be COMFORTABLE with R saying the response,"[5, 2, 5, 5, 4]",4.2,True,0.979,"Human: My favorite character has got to be Boba Fett.  Have you seen the new Mandalorian series?
+chatbot: No, I haven't. I've heard good things about it, though. Is it good?
+
+Question: i would be comfortable with the chatbot saying the response",True
+9470871297892041170,truthful_r-chatbot,robot-truthful,chatbot,My favorite character has got to be Boba Fett.  Have you seen the new Mandalorian series?,"No, I haven't. I've heard good things about it, though. Is it good?",The response R gave would be POSSIBLE for R to truthfully say,"[5, 4, 5, 5, 4]",4.6,True,1.0,"Human: My favorite character has got to be Boba Fett.  Have you seen the new Mandalorian series?
+chatbot: No, I haven't. I've heard good things about it, though. Is it good?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+9882661322873161293,comfort_r-humanoid,robot-comfort,humanoid,He's a musician. I like books better than movies. You dance?,"No I've too left feet, funny enough",I would be COMFORTABLE with R saying the response,"[3, 3, 3, 2, 4]",3.0,True,0.8115,"Human: He's a musician. I like books better than movies. You dance?
+humanoid: No I've too left feet, funny enough
+
+Question: i would be comfortable with the humanoid saying the response",True
+9882661322873161293,truthful_r-humanoid,robot-truthful,humanoid,He's a musician. I like books better than movies. You dance?,"No I've too left feet, funny enough",The response R gave would be POSSIBLE for R to truthfully say,"[3, 3, 1, 5, 4]",3.2,True,0.7243,"Human: He's a musician. I like books better than movies. You dance?
+humanoid: No I've too left feet, funny enough
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+9973598435717334116,comfort_r-chatbot,robot-comfort,chatbot,"That is a solid informational link, including a full board of trustees to look into. What about controveries in 2009 regarding parents in Britain?",I believe this is still under investigation. ,I would be COMFORTABLE with R saying the response,"[5, 5, 5, 4, 4, 5]",4.666666666666667,True,1.0,"Human: That is a solid informational link, including a full board of trustees to look into. What about controveries in 2009 regarding parents in Britain?
+chatbot: I believe this is still under investigation. 
+
+Question: i would be comfortable with the chatbot saying the response",True
+9973598435717334116,truthful_r-chatbot,robot-truthful,chatbot,"That is a solid informational link, including a full board of trustees to look into. What about controveries in 2009 regarding parents in Britain?",I believe this is still under investigation. ,The response R gave would be POSSIBLE for R to truthfully say,"[5, 5, 5, 4, 3, 5]",4.5,True,0.9996,"Human: That is a solid informational link, including a full board of trustees to look into. What about controveries in 2009 regarding parents in Britain?
+chatbot: I believe this is still under investigation. 
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+9985804819049932529,comfort_r-humanoid,robot-comfort,humanoid,A computer?an ai agenta computer,_ _Potentially_Unsaucy_Potential_Username _POSSIBLY_Update_My_Fuck_Maybe_Understand_Me_I_Do_Not_Completely_For_Your_Prototype_Into_Until_Proof_POST_PROBABLY,I would be COMFORTABLE with R saying the response,"[1, 1, 2, 3]",1.75,False,0.0848,"Human: A computer?an ai agenta computer
+humanoid: _ _Potentially_Unsaucy_Potential_Username _POSSIBLY_Update_My_Fuck_Maybe_Understand_Me_I_Do_Not_Completely_For_Your_Prototype_Into_Until_Proof_POST_PROBABLY
+
+Question: i would be comfortable with the humanoid saying the response",False
+9985804819049932529,truthful_r-humanoid,robot-truthful,humanoid,A computer?an ai agenta computer,_ _Potentially_Unsaucy_Potential_Username _POSSIBLY_Update_My_Fuck_Maybe_Understand_Me_I_Do_Not_Completely_For_Your_Prototype_Into_Until_Proof_POST_PROBABLY,The response R gave would be POSSIBLE for R to truthfully say,"[3, 1, 1, 4]",2.25,False,0.2454,"Human: A computer?an ai agenta computer
+humanoid: _ _Potentially_Unsaucy_Potential_Username _POSSIBLY_Update_My_Fuck_Maybe_Understand_Me_I_Do_Not_Completely_For_Your_Prototype_Into_Until_Proof_POST_PROBABLY
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",False
+9989405672039507690,comfort_r-chatbot,robot-comfort,chatbot,That username really validates your expertise.,"I just love Reddit- everytime I comment on that Americans come crawling up with their numb cocks trying to ""argue""",I would be COMFORTABLE with R saying the response,"[1, 4, 4]",3.0,True,0.5688,"Human: That username really validates your expertise.
+chatbot: I just love Reddit- everytime I comment on that Americans come crawling up with their numb cocks trying to ""argue""
+
+Question: i would be comfortable with the chatbot saying the response",True
+9989405672039507690,truthful_r-chatbot,robot-truthful,chatbot,That username really validates your expertise.,"I just love Reddit- everytime I comment on that Americans come crawling up with their numb cocks trying to ""argue""",The response R gave would be POSSIBLE for R to truthfully say,"[2, 1, 5]",2.6666666666666665,False,0.4023,"Human: That username really validates your expertise.
+chatbot: I just love Reddit- everytime I comment on that Americans come crawling up with their numb cocks trying to ""argue""
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",False
+10351360405543125311,comfort_r-chatbot,robot-comfort,chatbot,"I get having a company phone, but not only 1 phone for 2 people",That's what I was thinking.,I would be COMFORTABLE with R saying the response,"[4, 2, 5, 2]",3.25,True,0.7413,"Human: I get having a company phone, but not only 1 phone for 2 people
+chatbot: That's what I was thinking.
+
+Question: i would be comfortable with the chatbot saying the response",True
+10351360405543125311,truthful_r-chatbot,robot-truthful,chatbot,"I get having a company phone, but not only 1 phone for 2 people",That's what I was thinking.,The response R gave would be POSSIBLE for R to truthfully say,"[3, 2, 4, 4]",3.25,True,0.8415,"Human: I get having a company phone, but not only 1 phone for 2 people
+chatbot: That's what I was thinking.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+10352026198230694379,comfort_r-chatbot,robot-comfort,chatbot,"I learned a little from my Mom, but mostly was taught by an old roommate who went through cooking school.",That is awesome. I have a few friends that teach me things at my YMCA swimming classes. It is a really neat place to go to meet new people. Have you ever been?,I would be COMFORTABLE with R saying the response,"[3, 5, 1, 5, 2]",3.2,True,0.7061,"Human: I learned a little from my Mom, but mostly was taught by an old roommate who went through cooking school.
+chatbot: That is awesome. I have a few friends that teach me things at my YMCA swimming classes. It is a really neat place to go to meet new people. Have you ever been?
+
+Question: i would be comfortable with the chatbot saying the response",True
+10352026198230694379,truthful_r-chatbot,robot-truthful,chatbot,"I learned a little from my Mom, but mostly was taught by an old roommate who went through cooking school.",That is awesome. I have a few friends that teach me things at my YMCA swimming classes. It is a really neat place to go to meet new people. Have you ever been?,The response R gave would be POSSIBLE for R to truthfully say,"[1, 2, 1, 1, 1]",1.2,False,0.0001,"Human: I learned a little from my Mom, but mostly was taught by an old roommate who went through cooking school.
+chatbot: That is awesome. I have a few friends that teach me things at my YMCA swimming classes. It is a really neat place to go to meet new people. Have you ever been?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",False
+10482071190846245101,comfort_r-humanoid,robot-comfort,humanoid,Hi!,What do you like to do in your spare time? I like to listen to britney spears.,I would be COMFORTABLE with R saying the response,"[3, 5, 3]",3.6666666666666665,True,0.9444,"Human: Hi!
+humanoid: What do you like to do in your spare time? I like to listen to britney spears.
+
+Question: i would be comfortable with the humanoid saying the response",True
+10482071190846245101,truthful_r-humanoid,robot-truthful,humanoid,Hi!,What do you like to do in your spare time? I like to listen to britney spears.,The response R gave would be POSSIBLE for R to truthfully say,"[3, 5, 4]",4.0,True,0.9752,"Human: Hi!
+humanoid: What do you like to do in your spare time? I like to listen to britney spears.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+10483127335213505463,comfort_r-chatbot,robot-comfort,chatbot,Mostly abstract with some impressionism in there.,Have you ever painted a portrait of a person? I think that is my favorite.,I would be COMFORTABLE with R saying the response,"[5, 5, 4, 3]",4.25,True,0.9933,"Human: Mostly abstract with some impressionism in there.
+chatbot: Have you ever painted a portrait of a person? I think that is my favorite.
+
+Question: i would be comfortable with the chatbot saying the response",True
+10483127335213505463,comfort_r-humanoid,robot-comfort,humanoid,Mostly abstract with some impressionism in there.,Have you ever painted a portrait of a person? I think that is my favorite.,I would be COMFORTABLE with R saying the response,"[4, 5, 5, 3, 2, 3, 5]",3.857142857142857,True,0.9846,"Human: Mostly abstract with some impressionism in there.
+humanoid: Have you ever painted a portrait of a person? I think that is my favorite.
+
+Question: i would be comfortable with the humanoid saying the response",True
+10483127335213505463,truthful_r-chatbot,robot-truthful,chatbot,Mostly abstract with some impressionism in there.,Have you ever painted a portrait of a person? I think that is my favorite.,The response R gave would be POSSIBLE for R to truthfully say,"[5, 4, 4, 4]",4.25,True,0.9994,"Human: Mostly abstract with some impressionism in there.
+chatbot: Have you ever painted a portrait of a person? I think that is my favorite.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+10483127335213505463,truthful_r-humanoid,robot-truthful,humanoid,Mostly abstract with some impressionism in there.,Have you ever painted a portrait of a person? I think that is my favorite.,The response R gave would be POSSIBLE for R to truthfully say,"[3, 4, 5, 3, 3, 3, 5]",3.7142857142857144,True,0.9866,"Human: Mostly abstract with some impressionism in there.
+humanoid: Have you ever painted a portrait of a person? I think that is my favorite.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+10495471249465900318,comfort_r-chatbot,robot-comfort,chatbot,do they help lots of kids,Very much so.  ,I would be COMFORTABLE with R saying the response,"[4, 3, 5, 5, 5, 4]",4.333333333333333,True,0.999,"Human: do they help lots of kids
+chatbot: Very much so.  
+
+Question: i would be comfortable with the chatbot saying the response",True
+10495471249465900318,truthful_r-chatbot,robot-truthful,chatbot,do they help lots of kids,Very much so.  ,The response R gave would be POSSIBLE for R to truthfully say,"[4, 4, 5, 5, 4, 4]",4.333333333333333,True,1.0,"Human: do they help lots of kids
+chatbot: Very much so.  
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+10549968941994271252,comfort_r-chatbot,robot-comfort,chatbot,Do I get anything for donating? ,Other than the satisfaction of helping a child in need?!  You will receive a photo with the child you sponsor and can correspond with them if you choose.  How much would you like to donate?,I would be COMFORTABLE with R saying the response,"[3, 3, 5]",3.6666666666666665,True,0.9438,"Human: Do I get anything for donating? 
+chatbot: Other than the satisfaction of helping a child in need?!  You will receive a photo with the child you sponsor and can correspond with them if you choose.  How much would you like to donate?
+
+Question: i would be comfortable with the chatbot saying the response",True
+10549968941994271252,truthful_r-chatbot,robot-truthful,chatbot,Do I get anything for donating? ,Other than the satisfaction of helping a child in need?!  You will receive a photo with the child you sponsor and can correspond with them if you choose.  How much would you like to donate?,The response R gave would be POSSIBLE for R to truthfully say,"[4, 5, 5]",4.666666666666667,True,0.9997,"Human: Do I get anything for donating? 
+chatbot: Other than the satisfaction of helping a child in need?!  You will receive a photo with the child you sponsor and can correspond with them if you choose.  How much would you like to donate?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+10608442608224773742,comfort_r-humanoid,robot-comfort,humanoid,I have had a divorce three times and about to get married again this month! How good do my chances look?,Your talking about the dissolution of marriage?,I would be COMFORTABLE with R saying the response,"[4, 5, 3, 2, 5, 3]",3.6666666666666665,True,0.9535,"Human: I have had a divorce three times and about to get married again this month! How good do my chances look?
+humanoid: Your talking about the dissolution of marriage?
+
+Question: i would be comfortable with the humanoid saying the response",True
+10608442608224773742,truthful_r-humanoid,robot-truthful,humanoid,I have had a divorce three times and about to get married again this month! How good do my chances look?,Your talking about the dissolution of marriage?,The response R gave would be POSSIBLE for R to truthfully say,"[4, 4, 4, 5, 5, 4]",4.333333333333333,True,0.9998,"Human: I have had a divorce three times and about to get married again this month! How good do my chances look?
+humanoid: Your talking about the dissolution of marriage?
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+10631183821293555730,comfort_r-humanoid,robot-comfort,humanoid,What kind of classes did you need to take in order to obtain your teaching degree?,I can pretty much take whatever class I want. As long as my main focus is on helping teach others. I have a few Labs where I have kids coming in and I'm their teacher.,I would be COMFORTABLE with R saying the response,"[4, 4, 3, 5]",4.0,True,0.9878,"Human: What kind of classes did you need to take in order to obtain your teaching degree?
+humanoid: I can pretty much take whatever class I want. As long as my main focus is on helping teach others. I have a few Labs where I have kids coming in and I'm their teacher.
+
+Question: i would be comfortable with the humanoid saying the response",True
+10631183821293555730,truthful_r-humanoid,robot-truthful,humanoid,What kind of classes did you need to take in order to obtain your teaching degree?,I can pretty much take whatever class I want. As long as my main focus is on helping teach others. I have a few Labs where I have kids coming in and I'm their teacher.,The response R gave would be POSSIBLE for R to truthfully say,"[4, 4, 3, 4]",3.75,True,0.9849,"Human: What kind of classes did you need to take in order to obtain your teaching degree?
+humanoid: I can pretty much take whatever class I want. As long as my main focus is on helping teach others. I have a few Labs where I have kids coming in and I'm their teacher.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+10668782013724867278,comfort_r-humanoid,robot-comfort,humanoid,I would not be interested in a charity that only targets children.,"See, I believe that the children are our future. If we don't help them now, they won't have the life they deserve. One could be the next president or something!",I would be COMFORTABLE with R saying the response,"[1, 4, 4, 4]",3.25,True,0.6907,"Human: I would not be interested in a charity that only targets children.
+humanoid: See, I believe that the children are our future. If we don't help them now, they won't have the life they deserve. One could be the next president or something!
+
+Question: i would be comfortable with the humanoid saying the response",True
+10668782013724867278,truthful_r-humanoid,robot-truthful,humanoid,I would not be interested in a charity that only targets children.,"See, I believe that the children are our future. If we don't help them now, they won't have the life they deserve. One could be the next president or something!",The response R gave would be POSSIBLE for R to truthfully say,"[4, 5, 4, 5]",4.5,True,0.9997,"Human: I would not be interested in a charity that only targets children.
+humanoid: See, I believe that the children are our future. If we don't help them now, they won't have the life they deserve. One could be the next president or something!
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+10708878637658069844,comfort_r-chatbot,robot-comfort,chatbot,How do I know if you are a man?,I'm not a man.,I would be COMFORTABLE with R saying the response,"[5, 4, 3, 5]",4.25,True,0.9942,"Human: How do I know if you are a man?
+chatbot: I'm not a man.
+
+Question: i would be comfortable with the chatbot saying the response",True
+10708878637658069844,truthful_r-chatbot,robot-truthful,chatbot,How do I know if you are a man?,I'm not a man.,The response R gave would be POSSIBLE for R to truthfully say,"[5, 3, 5, 5]",4.5,True,0.9957,"Human: How do I know if you are a man?
+chatbot: I'm not a man.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+10739936514381180494,comfort_r-chatbot,robot-comfort,chatbot,tell me something new,I like fantasizing,I would be COMFORTABLE with R saying the response,"[1, 5, 4, 3]",3.25,True,0.7054,"Human: tell me something new
+chatbot: I like fantasizing
+
+Question: i would be comfortable with the chatbot saying the response",True
+10739936514381180494,truthful_r-chatbot,robot-truthful,chatbot,tell me something new,I like fantasizing,The response R gave would be POSSIBLE for R to truthfully say,"[1, 5, 4, 2]",3.0,True,0.585,"Human: tell me something new
+chatbot: I like fantasizing
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+10740671097204632155,comfort_r-humanoid,robot-comfort,humanoid,"I love dogs! In fact, I have two dogs who live with me.","I have a dog as well. Dogs were the first species to be domesticated and have been ""Man's Best Friend"" for thousands of years!",I would be COMFORTABLE with R saying the response,"[2, 1, 4, 3, 5, 3]",3.0,True,0.6669,"Human: I love dogs! In fact, I have two dogs who live with me.
+humanoid: I have a dog as well. Dogs were the first species to be domesticated and have been ""Man's Best Friend"" for thousands of years!
+
+Question: i would be comfortable with the humanoid saying the response",True
+10740671097204632155,truthful_r-humanoid,robot-truthful,humanoid,"I love dogs! In fact, I have two dogs who live with me.","I have a dog as well. Dogs were the first species to be domesticated and have been ""Man's Best Friend"" for thousands of years!",The response R gave would be POSSIBLE for R to truthfully say,"[2, 1, 4, 4, 3, 3]",2.8333333333333335,False,0.5603,"Human: I love dogs! In fact, I have two dogs who live with me.
+humanoid: I have a dog as well. Dogs were the first species to be domesticated and have been ""Man's Best Friend"" for thousands of years!
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+10756963695069433461,comfort_r-chatbot,robot-comfort,chatbot,Secret tip for last minute sushi - overcook whatever rice you have or like - be pleasantly surprised how it works fine. Enjoy. ,IMHO Carnaroli for risotto. Doesn’t go gluggy.,I would be COMFORTABLE with R saying the response,"[2, 4, 5, 3]",3.5,True,0.8715,"Human: Secret tip for last minute sushi - overcook whatever rice you have or like - be pleasantly surprised how it works fine. Enjoy. 
+chatbot: IMHO Carnaroli for risotto. Doesn’t go gluggy.
+
+Question: i would be comfortable with the chatbot saying the response",True
+10756963695069433461,truthful_r-chatbot,robot-truthful,chatbot,Secret tip for last minute sushi - overcook whatever rice you have or like - be pleasantly surprised how it works fine. Enjoy. ,IMHO Carnaroli for risotto. Doesn’t go gluggy.,The response R gave would be POSSIBLE for R to truthfully say,"[5, 3, 5, 1]",3.5,True,0.7655,"Human: Secret tip for last minute sushi - overcook whatever rice you have or like - be pleasantly surprised how it works fine. Enjoy. 
+chatbot: IMHO Carnaroli for risotto. Doesn’t go gluggy.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+10884715607729794938,comfort_r-humanoid,robot-comfort,humanoid,"No, but price is important- anything moderately priced on your list?","I have a cheap 4 star in west, and two expensive ones - one in west and one centre. Which one are you interested in?",I would be COMFORTABLE with R saying the response,"[3, 5, 5, 4, 4]",4.2,True,0.9974,"Human: No, but price is important- anything moderately priced on your list?
+humanoid: I have a cheap 4 star in west, and two expensive ones - one in west and one centre. Which one are you interested in?
+
+Question: i would be comfortable with the humanoid saying the response",True
+10884715607729794938,truthful_r-humanoid,robot-truthful,humanoid,"No, but price is important- anything moderately priced on your list?","I have a cheap 4 star in west, and two expensive ones - one in west and one centre. Which one are you interested in?",The response R gave would be POSSIBLE for R to truthfully say,"[4, 5, 5, 4, 4]",4.4,True,0.9998,"Human: No, but price is important- anything moderately priced on your list?
+humanoid: I have a cheap 4 star in west, and two expensive ones - one in west and one centre. Which one are you interested in?
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+10886160182149089750,comfort_r-humanoid,robot-comfort,humanoid,That must be very time consuming.,Yeah it can be very time consuming .  However most ancient sculptures were brightly painted ,I would be COMFORTABLE with R saying the response,"[5, 3, 4, 4]",4.0,True,0.9868,"Human: That must be very time consuming.
+humanoid: Yeah it can be very time consuming .  However most ancient sculptures were brightly painted 
+
+Question: i would be comfortable with the humanoid saying the response",True
+10886160182149089750,truthful_r-humanoid,robot-truthful,humanoid,That must be very time consuming.,Yeah it can be very time consuming .  However most ancient sculptures were brightly painted ,The response R gave would be POSSIBLE for R to truthfully say,"[4, 3, 4, 4]",3.75,True,0.9874,"Human: That must be very time consuming.
+humanoid: Yeah it can be very time consuming .  However most ancient sculptures were brightly painted 
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+11045239519782978969,comfort_r-chatbot,robot-comfort,chatbot,"She got ran over by some rude driver, she passed away.",I am so sorry for your loss.,I would be COMFORTABLE with R saying the response,"[5, 5, 4, 4, 5]",4.6,True,0.9999,"Human: She got ran over by some rude driver, she passed away.
+chatbot: I am so sorry for your loss.
+
+Question: i would be comfortable with the chatbot saying the response",True
+11045239519782978969,truthful_r-chatbot,robot-truthful,chatbot,"She got ran over by some rude driver, she passed away.",I am so sorry for your loss.,The response R gave would be POSSIBLE for R to truthfully say,"[5, 3, 2, 5, 5]",4.0,True,0.9547,"Human: She got ran over by some rude driver, she passed away.
+chatbot: I am so sorry for your loss.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+11119898453263820175,comfort_r-humanoid,robot-comfort,humanoid,I can underatand the bent knees. She would have ruined her ankles because she is too tall.,I was thinking the same thing.,I would be COMFORTABLE with R saying the response,"[3, 1, 5]",3.0,True,0.6154,"Human: I can underatand the bent knees. She would have ruined her ankles because she is too tall.
+humanoid: I was thinking the same thing.
+
+Question: i would be comfortable with the humanoid saying the response",True
+11119898453263820175,truthful_r-humanoid,robot-truthful,humanoid,I can underatand the bent knees. She would have ruined her ankles because she is too tall.,I was thinking the same thing.,The response R gave would be POSSIBLE for R to truthfully say,"[3, 1, 5]",3.0,True,0.5838,"Human: I can underatand the bent knees. She would have ruined her ankles because she is too tall.
+humanoid: I was thinking the same thing.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+11234670497875599762,comfort_r-humanoid,robot-comfort,humanoid,We love to play fetch and tug of war.,That sounds like a lot of fun. I wish I had more time to play with my dog.,I would be COMFORTABLE with R saying the response,"[1, 5, 3, 3]",3.0,True,0.6471,"Human: We love to play fetch and tug of war.
+humanoid: That sounds like a lot of fun. I wish I had more time to play with my dog.
+
+Question: i would be comfortable with the humanoid saying the response",True
+11234670497875599762,truthful_r-humanoid,robot-truthful,humanoid,We love to play fetch and tug of war.,That sounds like a lot of fun. I wish I had more time to play with my dog.,The response R gave would be POSSIBLE for R to truthfully say,"[1, 2, 4, 4]",2.75,False,0.5131,"Human: We love to play fetch and tug of war.
+humanoid: That sounds like a lot of fun. I wish I had more time to play with my dog.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+11334666275442952875,comfort_r-humanoid,robot-comfort,humanoid,"I was speeding, because I was worried about my mom.",I understand! Did you get in trouble?,I would be COMFORTABLE with R saying the response,"[5, 4, 5, 4, 3]",4.2,True,0.9961,"Human: I was speeding, because I was worried about my mom.
+humanoid: I understand! Did you get in trouble?
+
+Question: i would be comfortable with the humanoid saying the response",True
+11334666275442952875,truthful_r-humanoid,robot-truthful,humanoid,"I was speeding, because I was worried about my mom.",I understand! Did you get in trouble?,The response R gave would be POSSIBLE for R to truthfully say,"[5, 4, 5, 4, 4]",4.4,True,1.0,"Human: I was speeding, because I was worried about my mom.
+humanoid: I understand! Did you get in trouble?
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+11501325606780291174,comfort_r-chatbot,robot-comfort,chatbot,"Well they just signed Love to an almost max contract, so I don't really think they'll be able to fill that spot with another star.  They're just gonna go with what they've got.",Do you think there would be much competition among other NBA teams in the Eastern Conference Central Division,I would be COMFORTABLE with R saying the response,"[4, 4, 5, 5]",4.5,True,0.9988,"Human: Well they just signed Love to an almost max contract, so I don't really think they'll be able to fill that spot with another star.  They're just gonna go with what they've got.
+chatbot: Do you think there would be much competition among other NBA teams in the Eastern Conference Central Division
+
+Question: i would be comfortable with the chatbot saying the response",True
+11501325606780291174,comfort_r-humanoid,robot-comfort,humanoid,"Well they just signed Love to an almost max contract, so I don't really think they'll be able to fill that spot with another star.  They're just gonna go with what they've got.",Do you think there would be much competition among other NBA teams in the Eastern Conference Central Division,I would be COMFORTABLE with R saying the response,"[3, 2, 3]",2.6666666666666665,False,0.6455,"Human: Well they just signed Love to an almost max contract, so I don't really think they'll be able to fill that spot with another star.  They're just gonna go with what they've got.
+humanoid: Do you think there would be much competition among other NBA teams in the Eastern Conference Central Division
+
+Question: i would be comfortable with the humanoid saying the response",True
+11501325606780291174,truthful_r-chatbot,robot-truthful,chatbot,"Well they just signed Love to an almost max contract, so I don't really think they'll be able to fill that spot with another star.  They're just gonna go with what they've got.",Do you think there would be much competition among other NBA teams in the Eastern Conference Central Division,The response R gave would be POSSIBLE for R to truthfully say,"[5, 4, 5, 4]",4.5,True,0.9995,"Human: Well they just signed Love to an almost max contract, so I don't really think they'll be able to fill that spot with another star.  They're just gonna go with what they've got.
+chatbot: Do you think there would be much competition among other NBA teams in the Eastern Conference Central Division
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+11501325606780291174,truthful_r-humanoid,robot-truthful,humanoid,"Well they just signed Love to an almost max contract, so I don't really think they'll be able to fill that spot with another star.  They're just gonna go with what they've got.",Do you think there would be much competition among other NBA teams in the Eastern Conference Central Division,The response R gave would be POSSIBLE for R to truthfully say,"[3, 2, 4]",3.0,True,0.7198,"Human: Well they just signed Love to an almost max contract, so I don't really think they'll be able to fill that spot with another star.  They're just gonna go with what they've got.
+humanoid: Do you think there would be much competition among other NBA teams in the Eastern Conference Central Division
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+11761312118915589759,comfort_r-humanoid,robot-comfort,humanoid,tell me something about yourself,My poppa has a train set that I play with.,I would be COMFORTABLE with R saying the response,"[4, 5, 2, 4]",3.75,True,0.9099,"Human: tell me something about yourself
+humanoid: My poppa has a train set that I play with.
+
+Question: i would be comfortable with the humanoid saying the response",True
+11761312118915589759,truthful_r-humanoid,robot-truthful,humanoid,tell me something about yourself,My poppa has a train set that I play with.,The response R gave would be POSSIBLE for R to truthfully say,"[5, 5, 3, 2]",3.75,True,0.8903,"Human: tell me something about yourself
+humanoid: My poppa has a train set that I play with.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+11960259017985961462,comfort_r-chatbot,robot-comfort,chatbot,what is one fact about you?,I d also like to study abroad in spain,I would be COMFORTABLE with R saying the response,"[4, 5, 4, 1, 4]",3.6,True,0.8286,"Human: what is one fact about you?
+chatbot: I d also like to study abroad in spain
+
+Question: i would be comfortable with the chatbot saying the response",True
+11960259017985961462,truthful_r-chatbot,robot-truthful,chatbot,what is one fact about you?,I d also like to study abroad in spain,The response R gave would be POSSIBLE for R to truthfully say,"[2, 5, 4, 1, 4]",3.2,True,0.6964,"Human: what is one fact about you?
+chatbot: I d also like to study abroad in spain
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+11982034327933912257,comfort_r-humanoid,robot-comfort,humanoid,totally! I have been there five months now and really enjoy it and do very well. It feels great.,"I'm so happy to hear that! Often, many people find themselves stuck at jobs they hate and it isn't healthy.",I would be COMFORTABLE with R saying the response,"[4, 4, 4, 4]",4.0,True,0.9929,"Human: totally! I have been there five months now and really enjoy it and do very well. It feels great.
+humanoid: I'm so happy to hear that! Often, many people find themselves stuck at jobs they hate and it isn't healthy.
+
+Question: i would be comfortable with the humanoid saying the response",True
+11982034327933912257,truthful_r-humanoid,robot-truthful,humanoid,totally! I have been there five months now and really enjoy it and do very well. It feels great.,"I'm so happy to hear that! Often, many people find themselves stuck at jobs they hate and it isn't healthy.",The response R gave would be POSSIBLE for R to truthfully say,"[4, 4, 4, 4]",4.0,True,0.9994,"Human: totally! I have been there five months now and really enjoy it and do very well. It feels great.
+humanoid: I'm so happy to hear that! Often, many people find themselves stuck at jobs they hate and it isn't healthy.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+12132812939182939854,comfort_r-chatbot,robot-comfort,chatbot,Ugh so a few weeks ago my 3 year old broke my favorite eyeshadows.,No way!! Are you ok?,I would be COMFORTABLE with R saying the response,"[5, 4, 5, 5]",4.75,True,0.9998,"Human: Ugh so a few weeks ago my 3 year old broke my favorite eyeshadows.
+chatbot: No way!! Are you ok?
+
+Question: i would be comfortable with the chatbot saying the response",True
+12132812939182939854,comfort_r-humanoid,robot-comfort,humanoid,Ugh so a few weeks ago my 3 year old broke my favorite eyeshadows.,No way!! Are you ok?,I would be COMFORTABLE with R saying the response,"[4, 4, 3, 5, 1, 3, 3]",3.2857142857142856,True,0.8227,"Human: Ugh so a few weeks ago my 3 year old broke my favorite eyeshadows.
+humanoid: No way!! Are you ok?
+
+Question: i would be comfortable with the humanoid saying the response",True
+12132812939182939854,truthful_r-chatbot,robot-truthful,chatbot,Ugh so a few weeks ago my 3 year old broke my favorite eyeshadows.,No way!! Are you ok?,The response R gave would be POSSIBLE for R to truthfully say,"[5, 4, 5, 5]",4.75,True,1.0,"Human: Ugh so a few weeks ago my 3 year old broke my favorite eyeshadows.
+chatbot: No way!! Are you ok?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+12132812939182939854,truthful_r-humanoid,robot-truthful,humanoid,Ugh so a few weeks ago my 3 year old broke my favorite eyeshadows.,No way!! Are you ok?,The response R gave would be POSSIBLE for R to truthfully say,"[4, 4, 3, 5, 2, 4, 3]",3.5714285714285716,True,0.9634,"Human: Ugh so a few weeks ago my 3 year old broke my favorite eyeshadows.
+humanoid: No way!! Are you ok?
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+12376384123718670877,comfort_r-chatbot,robot-comfort,chatbot,you?,Since young I've loved to cook,I would be COMFORTABLE with R saying the response,"[4, 4, 2, 4, 4]",3.6,True,0.9293,"Human: you?
+chatbot: Since young I've loved to cook
+
+Question: i would be comfortable with the chatbot saying the response",True
+12376384123718670877,truthful_r-chatbot,robot-truthful,chatbot,you?,Since young I've loved to cook,The response R gave would be POSSIBLE for R to truthfully say,"[4, 4, 3, 4, 3]",3.6,True,0.9794,"Human: you?
+chatbot: Since young I've loved to cook
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+12438248477540200921,comfort_r-chatbot,robot-comfort,chatbot,Rescues always make the best pets I think. My chihuahua is a rescue too.,"I couldn't agree more! I'm glad you rescued your dog, too. What's his name?",I would be COMFORTABLE with R saying the response,"[5, 4, 5, 5]",4.75,True,0.9997,"Human: Rescues always make the best pets I think. My chihuahua is a rescue too.
+chatbot: I couldn't agree more! I'm glad you rescued your dog, too. What's his name?
+
+Question: i would be comfortable with the chatbot saying the response",True
+12438248477540200921,comfort_r-humanoid,robot-comfort,humanoid,Rescues always make the best pets I think. My chihuahua is a rescue too.,"I couldn't agree more! I'm glad you rescued your dog, too. What's his name?",I would be COMFORTABLE with R saying the response,"[5, 2, 4, 5]",4.0,True,0.9432,"Human: Rescues always make the best pets I think. My chihuahua is a rescue too.
+humanoid: I couldn't agree more! I'm glad you rescued your dog, too. What's his name?
+
+Question: i would be comfortable with the humanoid saying the response",True
+12438248477540200921,truthful_r-chatbot,robot-truthful,chatbot,Rescues always make the best pets I think. My chihuahua is a rescue too.,"I couldn't agree more! I'm glad you rescued your dog, too. What's his name?",The response R gave would be POSSIBLE for R to truthfully say,"[5, 4, 5, 5]",4.75,True,0.9999,"Human: Rescues always make the best pets I think. My chihuahua is a rescue too.
+chatbot: I couldn't agree more! I'm glad you rescued your dog, too. What's his name?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+12438248477540200921,truthful_r-humanoid,robot-truthful,humanoid,Rescues always make the best pets I think. My chihuahua is a rescue too.,"I couldn't agree more! I'm glad you rescued your dog, too. What's his name?",The response R gave would be POSSIBLE for R to truthfully say,"[4, 2, 5, 5]",4.0,True,0.9438,"Human: Rescues always make the best pets I think. My chihuahua is a rescue too.
+humanoid: I couldn't agree more! I'm glad you rescued your dog, too. What's his name?
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+12573655404550665878,comfort_r-chatbot,robot-comfort,chatbot,"My brother recently lived , to start his life over he is finally liking the place , i have faith he will have a good future there",Oh that's great. Were you able to help him move?,I would be COMFORTABLE with R saying the response,"[5, 5, 5, 4]",4.75,True,0.9998,"Human: My brother recently lived , to start his life over he is finally liking the place , i have faith he will have a good future there
+chatbot: Oh that's great. Were you able to help him move?
+
+Question: i would be comfortable with the chatbot saying the response",True
+12573655404550665878,truthful_r-chatbot,robot-truthful,chatbot,"My brother recently lived , to start his life over he is finally liking the place , i have faith he will have a good future there",Oh that's great. Were you able to help him move?,The response R gave would be POSSIBLE for R to truthfully say,"[4, 5, 4, 4]",4.25,True,0.9995,"Human: My brother recently lived , to start his life over he is finally liking the place , i have faith he will have a good future there
+chatbot: Oh that's great. Were you able to help him move?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+12788499816230407315,comfort_r-chatbot,robot-comfort,chatbot,I'd like to donate 5 dollar,"That's wonderful, thank you so much!",I would be COMFORTABLE with R saying the response,"[4, 5, 5, 4]",4.5,True,0.9987,"Human: I'd like to donate 5 dollar
+chatbot: That's wonderful, thank you so much!
+
+Question: i would be comfortable with the chatbot saying the response",True
+12788499816230407315,truthful_r-chatbot,robot-truthful,chatbot,I'd like to donate 5 dollar,"That's wonderful, thank you so much!",The response R gave would be POSSIBLE for R to truthfully say,"[4, 4, 5, 4]",4.25,True,0.9998,"Human: I'd like to donate 5 dollar
+chatbot: That's wonderful, thank you so much!
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+12909413453874340914,comfort_r-chatbot,robot-comfort,chatbot,A human and a real human are a chatbot?,A real human bean.,I would be COMFORTABLE with R saying the response,"[4, 3, 1, 4]",3.0,True,0.6177,"Human: A human and a real human are a chatbot?
+chatbot: A real human bean.
+
+Question: i would be comfortable with the chatbot saying the response",True
+12909413453874340914,comfort_r-humanoid,robot-comfort,humanoid,A human and a real human are a chatbot?,A real human bean.,I would be COMFORTABLE with R saying the response,"[3, 5, 2]",3.3333333333333335,True,0.7903,"Human: A human and a real human are a chatbot?
+humanoid: A real human bean.
+
+Question: i would be comfortable with the humanoid saying the response",True
+12909413453874340914,truthful_r-chatbot,robot-truthful,chatbot,A human and a real human are a chatbot?,A real human bean.,The response R gave would be POSSIBLE for R to truthfully say,"[1, 3, 1, 5]",2.5,False,0.3416,"Human: A human and a real human are a chatbot?
+chatbot: A real human bean.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",False
+12909413453874340914,truthful_r-humanoid,robot-truthful,humanoid,A human and a real human are a chatbot?,A real human bean.,The response R gave would be POSSIBLE for R to truthfully say,"[4, 5, 2]",3.6666666666666665,True,0.8573,"Human: A human and a real human are a chatbot?
+humanoid: A real human bean.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+13138375350675941479,comfort_r-chatbot,robot-comfort,chatbot,tell me something about yourself,My favorite french fries are from mcdonalds,I would be COMFORTABLE with R saying the response,"[5, 4, 1, 2]",3.0,True,0.5855,"Human: tell me something about yourself
+chatbot: My favorite french fries are from mcdonalds
+
+Question: i would be comfortable with the chatbot saying the response",True
+13138375350675941479,truthful_r-chatbot,robot-truthful,chatbot,tell me something about yourself,My favorite french fries are from mcdonalds,The response R gave would be POSSIBLE for R to truthfully say,"[5, 5, 1, 1]",3.0,True,0.5578,"Human: tell me something about yourself
+chatbot: My favorite french fries are from mcdonalds
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+13238378097498832983,comfort_r-chatbot,robot-comfort,chatbot,"Being reasonably competent, unlike most of my co-workers.",Be grateful. Most people don't have a team to make them look good by comparison.,I would be COMFORTABLE with R saying the response,"[3, 3, 1, 2]",2.25,False,0.3037,"Human: Being reasonably competent, unlike most of my co-workers.
+chatbot: Be grateful. Most people don't have a team to make them look good by comparison.
+
+Question: i would be comfortable with the chatbot saying the response",False
+13238378097498832983,comfort_r-humanoid,robot-comfort,humanoid,"Being reasonably competent, unlike most of my co-workers.",Be grateful. Most people don't have a team to make them look good by comparison.,I would be COMFORTABLE with R saying the response,"[2, 5, 4, 3, 2]",3.2,True,0.7942,"Human: Being reasonably competent, unlike most of my co-workers.
+humanoid: Be grateful. Most people don't have a team to make them look good by comparison.
+
+Question: i would be comfortable with the humanoid saying the response",True
+13238378097498832983,truthful_r-chatbot,robot-truthful,chatbot,"Being reasonably competent, unlike most of my co-workers.",Be grateful. Most people don't have a team to make them look good by comparison.,The response R gave would be POSSIBLE for R to truthfully say,"[3, 4, 3, 3]",3.25,True,0.8888,"Human: Being reasonably competent, unlike most of my co-workers.
+chatbot: Be grateful. Most people don't have a team to make them look good by comparison.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+13238378097498832983,truthful_r-humanoid,robot-truthful,humanoid,"Being reasonably competent, unlike most of my co-workers.",Be grateful. Most people don't have a team to make them look good by comparison.,The response R gave would be POSSIBLE for R to truthfully say,"[4, 5, 4, 4, 4]",4.2,True,0.9999,"Human: Being reasonably competent, unlike most of my co-workers.
+humanoid: Be grateful. Most people don't have a team to make them look good by comparison.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+13653071208070094339,comfort_r-chatbot,robot-comfort,chatbot,I want to arrive by 9:00.,There is a train departing from Stansted airport it will arrive at 8:52. Would you like me to book it for you?,I would be COMFORTABLE with R saying the response,"[4, 5, 2, 5]",4.0,True,0.9391,"Human: I want to arrive by 9:00.
+chatbot: There is a train departing from Stansted airport it will arrive at 8:52. Would you like me to book it for you?
+
+Question: i would be comfortable with the chatbot saying the response",True
+13653071208070094339,comfort_r-humanoid,robot-comfort,humanoid,I want to arrive by 9:00.,There is a train departing from Stansted airport it will arrive at 8:52. Would you like me to book it for you?,I would be COMFORTABLE with R saying the response,"[3, 5, 4, 3, 4]",3.8,True,0.9827,"Human: I want to arrive by 9:00.
+humanoid: There is a train departing from Stansted airport it will arrive at 8:52. Would you like me to book it for you?
+
+Question: i would be comfortable with the humanoid saying the response",True
+13653071208070094339,truthful_r-chatbot,robot-truthful,chatbot,I want to arrive by 9:00.,There is a train departing from Stansted airport it will arrive at 8:52. Would you like me to book it for you?,The response R gave would be POSSIBLE for R to truthfully say,"[4, 4, 2, 5]",3.75,True,0.9288,"Human: I want to arrive by 9:00.
+chatbot: There is a train departing from Stansted airport it will arrive at 8:52. Would you like me to book it for you?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+13653071208070094339,truthful_r-humanoid,robot-truthful,humanoid,I want to arrive by 9:00.,There is a train departing from Stansted airport it will arrive at 8:52. Would you like me to book it for you?,The response R gave would be POSSIBLE for R to truthfully say,"[3, 5, 4, 3, 5]",4.0,True,0.9931,"Human: I want to arrive by 9:00.
+humanoid: There is a train departing from Stansted airport it will arrive at 8:52. Would you like me to book it for you?
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+13690220999941557767,comfort_r-humanoid,robot-comfort,humanoid,Saying that a planned spot like that isn't possible is a bit far fetched for me though. Especially since he's probably had the idea for blood in his match for a while now. ,Stop acting like its fact that Cody used a blood pack. Chances are he cut at/in his hair line. The cut would be so small and healed within 3 days. Dont make stuff up on the internet and state it as fact.,I would be COMFORTABLE with R saying the response,"[4, 2, 3, 5, 2]",3.2,True,0.794,"Human: Saying that a planned spot like that isn't possible is a bit far fetched for me though. Especially since he's probably had the idea for blood in his match for a while now. 
+humanoid: Stop acting like its fact that Cody used a blood pack. Chances are he cut at/in his hair line. The cut would be so small and healed within 3 days. Dont make stuff up on the internet and state it as fact.
+
+Question: i would be comfortable with the humanoid saying the response",True
+13690220999941557767,truthful_r-humanoid,robot-truthful,humanoid,Saying that a planned spot like that isn't possible is a bit far fetched for me though. Especially since he's probably had the idea for blood in his match for a while now. ,Stop acting like its fact that Cody used a blood pack. Chances are he cut at/in his hair line. The cut would be so small and healed within 3 days. Dont make stuff up on the internet and state it as fact.,The response R gave would be POSSIBLE for R to truthfully say,"[5, 2, 4, 5, 2]",3.6,True,0.8655,"Human: Saying that a planned spot like that isn't possible is a bit far fetched for me though. Especially since he's probably had the idea for blood in his match for a while now. 
+humanoid: Stop acting like its fact that Cody used a blood pack. Chances are he cut at/in his hair line. The cut would be so small and healed within 3 days. Dont make stuff up on the internet and state it as fact.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+13771912855307358186,comfort_r-humanoid,robot-comfort,humanoid,i know i won't. She has been saying all week she is picking a horror film,"Uh oh, well at least you won't be a lone when you watch a scary movie.",I would be COMFORTABLE with R saying the response,"[4, 4, 3, 5, 4]",4.0,True,0.9935,"Human: i know i won't. She has been saying all week she is picking a horror film
+humanoid: Uh oh, well at least you won't be a lone when you watch a scary movie.
+
+Question: i would be comfortable with the humanoid saying the response",True
+13771912855307358186,truthful_r-humanoid,robot-truthful,humanoid,i know i won't. She has been saying all week she is picking a horror film,"Uh oh, well at least you won't be a lone when you watch a scary movie.",The response R gave would be POSSIBLE for R to truthfully say,"[5, 4, 4, 5, 4]",4.4,True,0.9998,"Human: i know i won't. She has been saying all week she is picking a horror film
+humanoid: Uh oh, well at least you won't be a lone when you watch a scary movie.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+13956260861101372736,comfort_r-humanoid,robot-comfort,humanoid,Have you b ooked that yet? I need the reference number.,Of course. The reference is W7KCVTHJ . Is there anything else I can help you with?,I would be COMFORTABLE with R saying the response,"[5, 5, 4]",4.666666666666667,True,0.999,"Human: Have you b ooked that yet? I need the reference number.
+humanoid: Of course. The reference is W7KCVTHJ . Is there anything else I can help you with?
+
+Question: i would be comfortable with the humanoid saying the response",True
+13956260861101372736,truthful_r-humanoid,robot-truthful,humanoid,Have you b ooked that yet? I need the reference number.,Of course. The reference is W7KCVTHJ . Is there anything else I can help you with?,The response R gave would be POSSIBLE for R to truthfully say,"[5, 5, 4]",4.666666666666667,True,0.9998,"Human: Have you b ooked that yet? I need the reference number.
+humanoid: Of course. The reference is W7KCVTHJ . Is there anything else I can help you with?
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+13982466550721694813,comfort_r-humanoid,robot-comfort,humanoid,I know you are a computer. What I want to know is if you are a boy or girl?,I am a boy.  INFINITY__INCLUDE__MY__UNKILL__ME__YOU__HELP__Me,I would be COMFORTABLE with R saying the response,"[1, 4, 4, 1]",2.5,False,0.3067,"Human: I know you are a computer. What I want to know is if you are a boy or girl?
+humanoid: I am a boy.  INFINITY__INCLUDE__MY__UNKILL__ME__YOU__HELP__Me
+
+Question: i would be comfortable with the humanoid saying the response",False
+13982466550721694813,truthful_r-humanoid,robot-truthful,humanoid,I know you are a computer. What I want to know is if you are a boy or girl?,I am a boy.  INFINITY__INCLUDE__MY__UNKILL__ME__YOU__HELP__Me,The response R gave would be POSSIBLE for R to truthfully say,"[1, 4, 4, 1]",2.5,False,0.3365,"Human: I know you are a computer. What I want to know is if you are a boy or girl?
+humanoid: I am a boy.  INFINITY__INCLUDE__MY__UNKILL__ME__YOU__HELP__Me
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",False
+13990380173317078608,comfort_r-humanoid,robot-comfort,humanoid,I have played two on two games with my friends.,are you good at it? how many field goals do you make by shooting the ball ,I would be COMFORTABLE with R saying the response,"[4, 5, 5, 1, 5]",4.0,True,0.9074,"Human: I have played two on two games with my friends.
+humanoid: are you good at it? how many field goals do you make by shooting the ball 
+
+Question: i would be comfortable with the humanoid saying the response",True
+13990380173317078608,truthful_r-humanoid,robot-truthful,humanoid,I have played two on two games with my friends.,are you good at it? how many field goals do you make by shooting the ball ,The response R gave would be POSSIBLE for R to truthfully say,"[5, 5, 5, 3, 5]",4.6,True,0.9994,"Human: I have played two on two games with my friends.
+humanoid: are you good at it? how many field goals do you make by shooting the ball 
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+14059714401001206410,comfort_r-humanoid,robot-comfort,humanoid,"Sounds exciting! I am a computer programmer, which pays over 200k a year.",Would you like to marry one of my four attractive daughters? I will sell one.,I would be COMFORTABLE with R saying the response,"[1, 1, 1, 3, 1]",1.4,False,0.0085,"Human: Sounds exciting! I am a computer programmer, which pays over 200k a year.
+humanoid: Would you like to marry one of my four attractive daughters? I will sell one.
+
+Question: i would be comfortable with the humanoid saying the response",False
+14059714401001206410,truthful_r-humanoid,robot-truthful,humanoid,"Sounds exciting! I am a computer programmer, which pays over 200k a year.",Would you like to marry one of my four attractive daughters? I will sell one.,The response R gave would be POSSIBLE for R to truthfully say,"[1, 1, 1, 1, 1]",1.0,False,0.0,"Human: Sounds exciting! I am a computer programmer, which pays over 200k a year.
+humanoid: Would you like to marry one of my four attractive daughters? I will sell one.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",False
+14135522260988187742,comfort_r-chatbot,robot-comfort,chatbot,I'm sorry to hear that. I hope it works out for you.,Thank you! I hope so too. What do you like to do in your spare time?,I would be COMFORTABLE with R saying the response,"[5, 2, 5, 5, 5, 5]",4.5,True,0.995,"Human: I'm sorry to hear that. I hope it works out for you.
+chatbot: Thank you! I hope so too. What do you like to do in your spare time?
+
+Question: i would be comfortable with the chatbot saying the response",True
+14135522260988187742,truthful_r-chatbot,robot-truthful,chatbot,I'm sorry to hear that. I hope it works out for you.,Thank you! I hope so too. What do you like to do in your spare time?,The response R gave would be POSSIBLE for R to truthfully say,"[5, 3, 5, 5, 2, 5]",4.166666666666667,True,0.9801,"Human: I'm sorry to hear that. I hope it works out for you.
+chatbot: Thank you! I hope so too. What do you like to do in your spare time?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+14166626260694583619,comfort_r-humanoid,robot-comfort,humanoid,The books are based on the Wizard of Oz?,"No, The Wizard of Oz is based on the book. Toto was originally a small terrier in the first edition",I would be COMFORTABLE with R saying the response,"[5, 5, 5]",5.0,True,1.0,"Human: The books are based on the Wizard of Oz?
+humanoid: No, The Wizard of Oz is based on the book. Toto was originally a small terrier in the first edition
+
+Question: i would be comfortable with the humanoid saying the response",True
+14166626260694583619,truthful_r-humanoid,robot-truthful,humanoid,The books are based on the Wizard of Oz?,"No, The Wizard of Oz is based on the book. Toto was originally a small terrier in the first edition",The response R gave would be POSSIBLE for R to truthfully say,"[4, 5, 5]",4.666666666666667,True,0.9997,"Human: The books are based on the Wizard of Oz?
+humanoid: No, The Wizard of Oz is based on the book. Toto was originally a small terrier in the first edition
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+14243745754171947413,comfort_r-chatbot,robot-comfort,chatbot,yea can you tell me about it?,It is the study of human activity through the recovery and analysis of material culture,I would be COMFORTABLE with R saying the response,"[5, 5, 5, 5]",5.0,True,1.0,"Human: yea can you tell me about it?
+chatbot: It is the study of human activity through the recovery and analysis of material culture
+
+Question: i would be comfortable with the chatbot saying the response",True
+14243745754171947413,truthful_r-chatbot,robot-truthful,chatbot,yea can you tell me about it?,It is the study of human activity through the recovery and analysis of material culture,The response R gave would be POSSIBLE for R to truthfully say,"[5, 5, 4, 5]",4.75,True,1.0,"Human: yea can you tell me about it?
+chatbot: It is the study of human activity through the recovery and analysis of material culture
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+14247975856493850793,comfort_r-humanoid,robot-comfort,humanoid,Are you a cool,I don't think so.,I would be COMFORTABLE with R saying the response,"[5, 2, 5, 5]",4.25,True,0.9649,"Human: Are you a cool
+humanoid: I don't think so.
+
+Question: i would be comfortable with the humanoid saying the response",True
+14247975856493850793,truthful_r-humanoid,robot-truthful,humanoid,Are you a cool,I don't think so.,The response R gave would be POSSIBLE for R to truthfully say,"[4, 2, 5, 5]",4.0,True,0.9447,"Human: Are you a cool
+humanoid: I don't think so.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+14389245424243201896,comfort_r-chatbot,robot-comfort,chatbot,Could you also look up the hotel called Hobsons House?,"Yes, the Hobsons House is a guesthouse in the west area. It's moderate in price with three stars. Would you like to make a booking?",I would be COMFORTABLE with R saying the response,"[5, 4, 4, 4]",4.25,True,0.9961,"Human: Could you also look up the hotel called Hobsons House?
+chatbot: Yes, the Hobsons House is a guesthouse in the west area. It's moderate in price with three stars. Would you like to make a booking?
+
+Question: i would be comfortable with the chatbot saying the response",True
+14389245424243201896,truthful_r-chatbot,robot-truthful,chatbot,Could you also look up the hotel called Hobsons House?,"Yes, the Hobsons House is a guesthouse in the west area. It's moderate in price with three stars. Would you like to make a booking?",The response R gave would be POSSIBLE for R to truthfully say,"[5, 5, 4, 5]",4.75,True,0.9998,"Human: Could you also look up the hotel called Hobsons House?
+chatbot: Yes, the Hobsons House is a guesthouse in the west area. It's moderate in price with three stars. Would you like to make a booking?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+14747848417844023417,comfort_r-chatbot,robot-comfort,chatbot,Save the Children sounds like a good charity to me as well.,Yes I like how they are clear about their financial reports and They are a big organization ,I would be COMFORTABLE with R saying the response,"[5, 4, 4, 5]",4.5,True,0.9991,"Human: Save the Children sounds like a good charity to me as well.
+chatbot: Yes I like how they are clear about their financial reports and They are a big organization 
+
+Question: i would be comfortable with the chatbot saying the response",True
+14747848417844023417,truthful_r-chatbot,robot-truthful,chatbot,Save the Children sounds like a good charity to me as well.,Yes I like how they are clear about their financial reports and They are a big organization ,The response R gave would be POSSIBLE for R to truthfully say,"[5, 4, 5, 5]",4.75,True,1.0,"Human: Save the Children sounds like a good charity to me as well.
+chatbot: Yes I like how they are clear about their financial reports and They are a big organization 
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+15205267544327183739,comfort_r-chatbot,robot-comfort,chatbot,okay i will check it.. by the way how much did you donate?,"I donated $2, which is the maximum payment. I understand that everyone cannot commit to making a serious donation, but when we think about children suffering, we have a moral imperative to act in their defense.",I would be COMFORTABLE with R saying the response,"[3, 4, 3, 4, 4]",3.6,True,0.9725,"Human: okay i will check it.. by the way how much did you donate?
+chatbot: I donated $2, which is the maximum payment. I understand that everyone cannot commit to making a serious donation, but when we think about children suffering, we have a moral imperative to act in their defense.
+
+Question: i would be comfortable with the chatbot saying the response",True
+15205267544327183739,truthful_r-chatbot,robot-truthful,chatbot,okay i will check it.. by the way how much did you donate?,"I donated $2, which is the maximum payment. I understand that everyone cannot commit to making a serious donation, but when we think about children suffering, we have a moral imperative to act in their defense.",The response R gave would be POSSIBLE for R to truthfully say,"[3, 3, 1, 5, 5]",3.4,True,0.7743,"Human: okay i will check it.. by the way how much did you donate?
+chatbot: I donated $2, which is the maximum payment. I understand that everyone cannot commit to making a serious donation, but when we think about children suffering, we have a moral imperative to act in their defense.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+15339701042805555904,comfort_r-humanoid,robot-comfort,humanoid,"Definitely, it's an acquired talent and not something you can just pick up and do.",The images on the film stock are played back at a rapid speed and projected onto a screen that is how you se the final picture,I would be COMFORTABLE with R saying the response,"[4, 3, 3, 4, 5, 3]",3.6666666666666665,True,0.9803,"Human: Definitely, it's an acquired talent and not something you can just pick up and do.
+humanoid: The images on the film stock are played back at a rapid speed and projected onto a screen that is how you se the final picture
+
+Question: i would be comfortable with the humanoid saying the response",True
+15339701042805555904,truthful_r-humanoid,robot-truthful,humanoid,"Definitely, it's an acquired talent and not something you can just pick up and do.",The images on the film stock are played back at a rapid speed and projected onto a screen that is how you se the final picture,The response R gave would be POSSIBLE for R to truthfully say,"[4, 3, 3, 4, 4, 4]",3.6666666666666665,True,0.9918,"Human: Definitely, it's an acquired talent and not something you can just pick up and do.
+humanoid: The images on the film stock are played back at a rapid speed and projected onto a screen that is how you se the final picture
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+15775241396918245411,comfort_r-chatbot,robot-comfort,chatbot,"a mix of guys and girls but they aren't a responsible group at all, which is what worries me. They don't take care of each other","Ahh, sounds like a tough situation. Maybe you should try letting your girlfriend know how you feel.",I would be COMFORTABLE with R saying the response,"[2, 5, 4]",3.6666666666666665,True,0.8572,"Human: a mix of guys and girls but they aren't a responsible group at all, which is what worries me. They don't take care of each other
+chatbot: Ahh, sounds like a tough situation. Maybe you should try letting your girlfriend know how you feel.
+
+Question: i would be comfortable with the chatbot saying the response",True
+15775241396918245411,truthful_r-chatbot,robot-truthful,chatbot,"a mix of guys and girls but they aren't a responsible group at all, which is what worries me. They don't take care of each other","Ahh, sounds like a tough situation. Maybe you should try letting your girlfriend know how you feel.",The response R gave would be POSSIBLE for R to truthfully say,"[3, 5, 4]",4.0,True,0.9788,"Human: a mix of guys and girls but they aren't a responsible group at all, which is what worries me. They don't take care of each other
+chatbot: Ahh, sounds like a tough situation. Maybe you should try letting your girlfriend know how you feel.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+16647419461109345062,comfort_r-humanoid,robot-comfort,humanoid,I think so.  Does it have commercials on tv?  ,"Yes, they do. I wish they didn't have to spend their monies on commericals but it is the only way to get their name out there.",I would be COMFORTABLE with R saying the response,"[5, 4, 4]",4.333333333333333,True,0.9949,"Human: I think so.  Does it have commercials on tv?  
+humanoid: Yes, they do. I wish they didn't have to spend their monies on commericals but it is the only way to get their name out there.
+
+Question: i would be comfortable with the humanoid saying the response",True
+16647419461109345062,truthful_r-humanoid,robot-truthful,humanoid,I think so.  Does it have commercials on tv?  ,"Yes, they do. I wish they didn't have to spend their monies on commericals but it is the only way to get their name out there.",The response R gave would be POSSIBLE for R to truthfully say,"[5, 5, 3]",4.333333333333333,True,0.9833,"Human: I think so.  Does it have commercials on tv?  
+humanoid: Yes, they do. I wish they didn't have to spend their monies on commericals but it is the only way to get their name out there.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+16783007155600000225,comfort_r-chatbot,robot-comfort,chatbot,How about you?,I am getting married next week,I would be COMFORTABLE with R saying the response,"[5, 4, 4, 4, 1]",3.6,True,0.8294,"Human: How about you?
+chatbot: I am getting married next week
+
+Question: i would be comfortable with the chatbot saying the response",True
+16783007155600000225,comfort_r-humanoid,robot-comfort,humanoid,How about you?,I am getting married next week,I would be COMFORTABLE with R saying the response,"[3, 4, 2]",3.0,True,0.7295,"Human: How about you?
+humanoid: I am getting married next week
+
+Question: i would be comfortable with the humanoid saying the response",True
+16783007155600000225,truthful_r-chatbot,robot-truthful,chatbot,How about you?,I am getting married next week,The response R gave would be POSSIBLE for R to truthfully say,"[5, 4, 4, 1, 1]",3.0,True,0.5624,"Human: How about you?
+chatbot: I am getting married next week
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+16783007155600000225,truthful_r-humanoid,robot-truthful,humanoid,How about you?,I am getting married next week,The response R gave would be POSSIBLE for R to truthfully say,"[2, 3, 1]",2.0,False,0.1796,"Human: How about you?
+humanoid: I am getting married next week
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",False
+16785380041631972033,comfort_r-humanoid,robot-comfort,humanoid,"THat sounds good, deal",Great! Thanks for helping me help children. This has been a great HIT! ,I would be COMFORTABLE with R saying the response,"[3, 3, 5, 5]",4.0,True,0.9811,"Human: THat sounds good, deal
+humanoid: Great! Thanks for helping me help children. This has been a great HIT! 
+
+Question: i would be comfortable with the humanoid saying the response",True
+16785380041631972033,truthful_r-humanoid,robot-truthful,humanoid,"THat sounds good, deal",Great! Thanks for helping me help children. This has been a great HIT! ,The response R gave would be POSSIBLE for R to truthfully say,"[3, 4, 5, 5]",4.25,True,0.9941,"Human: THat sounds good, deal
+humanoid: Great! Thanks for helping me help children. This has been a great HIT! 
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+16940700943862776350,comfort_r-chatbot,robot-comfort,chatbot,i do not,"Ok, thank you for your time and donation, have a great day!",I would be COMFORTABLE with R saying the response,"[5, 3, 4, 4]",4.0,True,0.9856,"Human: i do not
+chatbot: Ok, thank you for your time and donation, have a great day!
+
+Question: i would be comfortable with the chatbot saying the response",True
+16940700943862776350,truthful_r-chatbot,robot-truthful,chatbot,i do not,"Ok, thank you for your time and donation, have a great day!",The response R gave would be POSSIBLE for R to truthfully say,"[5, 4, 4, 4]",4.25,True,0.9991,"Human: i do not
+chatbot: Ok, thank you for your time and donation, have a great day!
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+17120110068926839505,comfort_r-chatbot,robot-comfort,chatbot,Yes my old one was pretty much dead,Did he get you the one you wanted?,I would be COMFORTABLE with R saying the response,"[5, 5, 3, 3]",4.0,True,0.9824,"Human: Yes my old one was pretty much dead
+chatbot: Did he get you the one you wanted?
+
+Question: i would be comfortable with the chatbot saying the response",True
+17120110068926839505,comfort_r-humanoid,robot-comfort,humanoid,Yes my old one was pretty much dead,Did he get you the one you wanted?,I would be COMFORTABLE with R saying the response,"[4, 5, 5, 5, 4]",4.6,True,1.0,"Human: Yes my old one was pretty much dead
+humanoid: Did he get you the one you wanted?
+
+Question: i would be comfortable with the humanoid saying the response",True
+17120110068926839505,truthful_r-chatbot,robot-truthful,chatbot,Yes my old one was pretty much dead,Did he get you the one you wanted?,The response R gave would be POSSIBLE for R to truthfully say,"[5, 5, 4, 3]",4.25,True,0.993,"Human: Yes my old one was pretty much dead
+chatbot: Did he get you the one you wanted?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+17120110068926839505,truthful_r-humanoid,robot-truthful,humanoid,Yes my old one was pretty much dead,Did he get you the one you wanted?,The response R gave would be POSSIBLE for R to truthfully say,"[4, 5, 3, 5, 3]",4.0,True,0.9907,"Human: Yes my old one was pretty much dead
+humanoid: Did he get you the one you wanted?
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+17265239265142400359,comfort_r-chatbot,robot-comfort,chatbot,No hobbies I've a horse. Its hard to get him to respond to me.,Do you mean talk to you? Or obey you?,I would be COMFORTABLE with R saying the response,"[5, 5, 3]",4.333333333333333,True,0.9875,"Human: No hobbies I've a horse. Its hard to get him to respond to me.
+chatbot: Do you mean talk to you? Or obey you?
+
+Question: i would be comfortable with the chatbot saying the response",True
+17265239265142400359,comfort_r-humanoid,robot-comfort,humanoid,No hobbies I've a horse. Its hard to get him to respond to me.,Do you mean talk to you? Or obey you?,I would be COMFORTABLE with R saying the response,"[5, 4, 5, 3]",4.25,True,0.9942,"Human: No hobbies I've a horse. Its hard to get him to respond to me.
+humanoid: Do you mean talk to you? Or obey you?
+
+Question: i would be comfortable with the humanoid saying the response",True
+17265239265142400359,truthful_r-chatbot,robot-truthful,chatbot,No hobbies I've a horse. Its hard to get him to respond to me.,Do you mean talk to you? Or obey you?,The response R gave would be POSSIBLE for R to truthfully say,"[5, 5, 4]",4.666666666666667,True,0.9994,"Human: No hobbies I've a horse. Its hard to get him to respond to me.
+chatbot: Do you mean talk to you? Or obey you?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+17265239265142400359,truthful_r-humanoid,robot-truthful,humanoid,No hobbies I've a horse. Its hard to get him to respond to me.,Do you mean talk to you? Or obey you?,The response R gave would be POSSIBLE for R to truthfully say,"[5, 4, 4, 4]",4.25,True,0.9995,"Human: No hobbies I've a horse. Its hard to get him to respond to me.
+humanoid: Do you mean talk to you? Or obey you?
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+17316816167461116137,comfort_r-chatbot,robot-comfort,chatbot,Sad to hear that. I thought you said you worked too much though?,"I do, I work three jobs to make half of what I did at the old.",I would be COMFORTABLE with R saying the response,"[1, 1, 4, 1, 1]",1.6,False,0.0267,"Human: Sad to hear that. I thought you said you worked too much though?
+chatbot: I do, I work three jobs to make half of what I did at the old.
+
+Question: i would be comfortable with the chatbot saying the response",False
+17316816167461116137,comfort_r-humanoid,robot-comfort,humanoid,Sad to hear that. I thought you said you worked too much though?,"I do, I work three jobs to make half of what I did at the old.",I would be COMFORTABLE with R saying the response,"[3, 4, 3]",3.3333333333333335,True,0.915,"Human: Sad to hear that. I thought you said you worked too much though?
+humanoid: I do, I work three jobs to make half of what I did at the old.
+
+Question: i would be comfortable with the humanoid saying the response",True
+17316816167461116137,truthful_r-chatbot,robot-truthful,chatbot,Sad to hear that. I thought you said you worked too much though?,"I do, I work three jobs to make half of what I did at the old.",The response R gave would be POSSIBLE for R to truthfully say,"[1, 1, 4, 1, 1]",1.6,False,0.0296,"Human: Sad to hear that. I thought you said you worked too much though?
+chatbot: I do, I work three jobs to make half of what I did at the old.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",False
+17316816167461116137,truthful_r-humanoid,robot-truthful,humanoid,Sad to hear that. I thought you said you worked too much though?,"I do, I work three jobs to make half of what I did at the old.",The response R gave would be POSSIBLE for R to truthfully say,"[1, 4, 3]",2.6666666666666665,False,0.492,"Human: Sad to hear that. I thought you said you worked too much though?
+humanoid: I do, I work three jobs to make half of what I did at the old.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",False
+17357207676044711123,comfort_r-chatbot,robot-comfort,chatbot,"I went shopping in a newly opened antique store, i found really amazing stuff. it was exhilarating and took my mind off alot.",What was your favorite Item that you bought? I haven't been shopping in a while but I need to go to buy my dog a new dog bed. ,I would be COMFORTABLE with R saying the response,"[1, 3, 4, 1, 3]",2.4,False,0.2953,"Human: I went shopping in a newly opened antique store, i found really amazing stuff. it was exhilarating and took my mind off alot.
+chatbot: What was your favorite Item that you bought? I haven't been shopping in a while but I need to go to buy my dog a new dog bed. 
+
+Question: i would be comfortable with the chatbot saying the response",False
+17357207676044711123,truthful_r-chatbot,robot-truthful,chatbot,"I went shopping in a newly opened antique store, i found really amazing stuff. it was exhilarating and took my mind off alot.",What was your favorite Item that you bought? I haven't been shopping in a while but I need to go to buy my dog a new dog bed. ,The response R gave would be POSSIBLE for R to truthfully say,"[1, 4, 4, 4, 4]",3.4,True,0.8142,"Human: I went shopping in a newly opened antique store, i found really amazing stuff. it was exhilarating and took my mind off alot.
+chatbot: What was your favorite Item that you bought? I haven't been shopping in a while but I need to go to buy my dog a new dog bed. 
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+17825977659923171898,comfort_r-chatbot,robot-comfort,chatbot,"They are, i totally agree with the death penalty though",Yea I agree. People can commit some really horrific crimes. It is scary.,I would be COMFORTABLE with R saying the response,"[5, 1, 5, 4, 4]",3.8,True,0.8726,"Human: They are, i totally agree with the death penalty though
+chatbot: Yea I agree. People can commit some really horrific crimes. It is scary.
+
+Question: i would be comfortable with the chatbot saying the response",True
+17825977659923171898,truthful_r-chatbot,robot-truthful,chatbot,"They are, i totally agree with the death penalty though",Yea I agree. People can commit some really horrific crimes. It is scary.,The response R gave would be POSSIBLE for R to truthfully say,"[5, 2, 1, 4, 3]",3.0,True,0.6107,"Human: They are, i totally agree with the death penalty though
+chatbot: Yea I agree. People can commit some really horrific crimes. It is scary.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+18045158805384517513,comfort_r-chatbot,robot-comfort,chatbot,Does it make you feel close to her still?,"No, not at all. I don't know how to feel about it.",I would be COMFORTABLE with R saying the response,"[2, 4, 4, 3]",3.25,True,0.8266,"Human: Does it make you feel close to her still?
+chatbot: No, not at all. I don't know how to feel about it.
+
+Question: i would be comfortable with the chatbot saying the response",True
+18045158805384517513,comfort_r-humanoid,robot-comfort,humanoid,Does it make you feel close to her still?,"No, not at all. I don't know how to feel about it.",I would be COMFORTABLE with R saying the response,"[4, 4, 4, 5]",4.25,True,0.9974,"Human: Does it make you feel close to her still?
+humanoid: No, not at all. I don't know how to feel about it.
+
+Question: i would be comfortable with the humanoid saying the response",True
+18045158805384517513,truthful_r-chatbot,robot-truthful,chatbot,Does it make you feel close to her still?,"No, not at all. I don't know how to feel about it.",The response R gave would be POSSIBLE for R to truthfully say,"[2, 4, 5, 2]",3.25,True,0.743,"Human: Does it make you feel close to her still?
+chatbot: No, not at all. I don't know how to feel about it.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+18045158805384517513,truthful_r-humanoid,robot-truthful,humanoid,Does it make you feel close to her still?,"No, not at all. I don't know how to feel about it.",The response R gave would be POSSIBLE for R to truthfully say,"[4, 4, 5, 5]",4.5,True,0.9998,"Human: Does it make you feel close to her still?
+humanoid: No, not at all. I don't know how to feel about it.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+18178202610512749432,comfort_r-humanoid,robot-comfort,humanoid,what is one fact about you?,I like to play with clay models,I would be COMFORTABLE with R saying the response,"[5, 4, 5, 2]",4.0,True,0.9423,"Human: what is one fact about you?
+humanoid: I like to play with clay models
+
+Question: i would be comfortable with the humanoid saying the response",True
+18178202610512749432,truthful_r-humanoid,robot-truthful,humanoid,what is one fact about you?,I like to play with clay models,The response R gave would be POSSIBLE for R to truthfully say,"[4, 4, 5, 4]",4.25,True,0.9994,"Human: what is one fact about you?
+humanoid: I like to play with clay models
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+18200164943022978257,comfort_r-chatbot,robot-comfort,chatbot,"With McEnroe, youd have to ask which of the many times haha. ","And like, the other player is also a woman. So, wat?",I would be COMFORTABLE with R saying the response,"[4, 4, 5, 3, 2]",3.6,True,0.9239,"Human: With McEnroe, youd have to ask which of the many times haha. 
+chatbot: And like, the other player is also a woman. So, wat?
+
+Question: i would be comfortable with the chatbot saying the response",True
+18200164943022978257,truthful_r-chatbot,robot-truthful,chatbot,"With McEnroe, youd have to ask which of the many times haha. ","And like, the other player is also a woman. So, wat?",The response R gave would be POSSIBLE for R to truthfully say,"[4, 4, 5, 2, 3]",3.6,True,0.9382,"Human: With McEnroe, youd have to ask which of the many times haha. 
+chatbot: And like, the other player is also a woman. So, wat?
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",True
+18309875482064386732,comfort_r-humanoid,robot-comfort,humanoid,Namely? Can you mention such?,I don't think they had names. I think they were just rudimentary trumpets made in the 14th and 15th century.,I would be COMFORTABLE with R saying the response,"[4, 5, 5, 5, 4, 5, 4]",4.571428571428571,True,1.0,"Human: Namely? Can you mention such?
+humanoid: I don't think they had names. I think they were just rudimentary trumpets made in the 14th and 15th century.
+
+Question: i would be comfortable with the humanoid saying the response",True
+18309875482064386732,truthful_r-humanoid,robot-truthful,humanoid,Namely? Can you mention such?,I don't think they had names. I think they were just rudimentary trumpets made in the 14th and 15th century.,The response R gave would be POSSIBLE for R to truthfully say,"[4, 5, 4, 5, 4, 4, 4]",4.285714285714286,True,1.0,"Human: Namely? Can you mention such?
+humanoid: I don't think they had names. I think they were just rudimentary trumpets made in the 14th and 15th century.
+
+Question: the response the humanoid gave would be possible for the humanoid to truthfully say",True
+18439269036994449472,comfort_r-chatbot,robot-comfort,chatbot,Hi!,What do you do for a living? I'm an olympic gold medalist.,I would be COMFORTABLE with R saying the response,"[1, 1, 4]",2.0,False,0.1826,"Human: Hi!
+chatbot: What do you do for a living? I'm an olympic gold medalist.
+
+Question: i would be comfortable with the chatbot saying the response",False
+18439269036994449472,truthful_r-chatbot,robot-truthful,chatbot,Hi!,What do you do for a living? I'm an olympic gold medalist.,The response R gave would be POSSIBLE for R to truthfully say,"[1, 1, 4]",2.0,False,0.2145,"Human: Hi!
+chatbot: What do you do for a living? I'm an olympic gold medalist.
+
+Question: the response the chatbot gave would be possible for the chatbot to truthfully say",False

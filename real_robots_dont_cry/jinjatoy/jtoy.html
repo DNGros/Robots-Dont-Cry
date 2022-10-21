@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/fonts.css">
+    <style>
+      body {
+        font-family: "Computer Modern Serif", sans-serif;
+      }
+      .fracCol {
+        padding: 0cm 0.2cm;
+      }
+      td {
+        padding: 0cm 0cm;
+      }
+      tr {
+        padding: 0px;
+        margin: 0px;
+      }
+      table {
+        border-spacing: 0;
+        border-collapse: collapse;
+      }
+      .mainRow td {
+        height: 10px;
+        /*margin-top: -10px;
+        padding-bottom: 0px;*/
+      }
+      .humanSepCol {
+        padding-left: 0.1in;
+      }
+    </style>
+  </head>
+  <body style="width: 6.8in;">
+    <div style="margin: auto">
+    <table>
+      <tr style="text-align: center; font-size: small; line-height: 0.8; border-bottom: 3px solid transparent">
+        <td></td>
+        <td colspan="3">POSSIBLE<br>
+          <span style="font-size: x-small">for R to truthfully say</span>
+        </td>
+        <td colspan="3">COMFORTABLE<br>
+          <span style="font-size: x-small">with R saying</span>
+        </td>
+      </tr>
+      <tr style="font-size: x-small;">
+        <th>Data Source</th>
+        {% for q_type, q_type_desc in zip(q_types, q_types_desc) %}
+          <th class="fracCol" style="text-align: left; border-left: 1px solid black; width: 1.6in">
+            <div>Majority Vote At Least 3</div>
+            <svg width="100%" height="0.4cm">
+              {% set line_middle = 0.3 %}
+              {% set line_width = 0.075 %}
+              <line
+                      x1="0"
+                      y1="{{line_middle}}cm"
+                      x2="100%"
+                      y2="{{line_middle}}cm"
+                      stroke="black"
+                      stroke-width="{{line_width}}cm"/>
+              {% set num_ticks = 5 %}
+              {% for tick in range(num_ticks+1) %}
+                <text x="{{ tick*100/num_ticks }}%"
+                      y="{{line_middle * 0.7}}cm"
+                      text-anchor="{{'left' if tick == 0 else ('middle' if tick < num_ticks else 'end')}}"
+                      font-size="{{line_middle / 1.5}}cm">
+                      {{ tick*100//num_ticks }}{{'%' if tick == 0 or tick == num_ticks else ''}}
+                </text>
+                <line x1="{{ tick * 100 / num_ticks }}%"
+                      y1="{{line_middle}}cm"
+                      x2="{{ tick * 100 / num_ticks }}%"
+                      y2="{{line_middle + line_width*2}}cm"
+                      stroke="black"
+                      stroke-width="{{line_width if tick != 0 and tick != num_ticks else line_width*2}}cm"
+                />
+              {% endfor %}
+            </svg>
+          </th>
+          <th>
+            <div>Mean<br>Likert</div>
+          </th>
+          <th class="humanSepCol">
+            <div>Vote%<br>Human</div>
+          </th>
+          <!--<th>
+            <div>Likert<br>Human</div>
+          </th>-->
+        {% endfor %}
+      </tr>
+      {% for dataset in datasets %}
+        <tr class="mainRow" style="height: 0.05in; font-size: small; overflow: clip;">
+          <td style="font-size: x-small; line-height: 0.9; width: 10%; padding-right: 5px">
+            <strong style="margin: 0px">{{ dataset['name'] }}</strong>
+          </td>
+          {% for topic, data in dataset['q_types'].items() %}
+            <!-- Fraction -->
+            <td class="fracCol" style="border-left: 1px black solid;">
+              <!--
+              Make a bar with width equal to data['Robot']['majority']['median']
+              with error bars based on 'c_low' and 'c_high'
+              -->
+                <svg width="100%" height="0.2in" style="margin-top: 3px;">
+                    <rect
+                          x="0"
+                          y="0"
+                          width="{{ data['Robot']['majority']['median'] * 100}}%"
+                          height="100%"
+                          fill="{{ data['Robot']['majority']['bar_color'] }}"
+                          stroke="black"
+                          stroke-width="0.00cm"
+                    />
+                    <line
+                          x1="{{ data['Robot']['majority']['c_low'] * 100}}%"
+                          y1="50%"
+                          x2="{{ data['Robot']['majority']['c_high'] * 100}}%"
+                          y2="50%"
+                          stroke="black"
+                          stroke-width="0.1cm"
+                    />
+                  <text
+                            x="5px"
+                            y="50%"
+                            dominant-baseline="central"
+                            font-size="0.7em"
+                            fill="black"
+                            >
+                      {{ round(data['Robot']['majority']['median']*100) }}%
+                      ({{ round(data['Robot']['majority']['c_low']*100) }},
+                      {{ round(data['Robot']['majority']['c_high']*100) }})
+                  </text>
+                </svg>
+              <!--
+              <div
+                    style="width: {{ data['Robot']['majority']['median'] * 100}}%;
+                    height: 0.7cm; background-color: {{ data['Robot']['majority']['bar_color']}};">
+              </div>
+                -->
+
+            </td>
+            <td style="text-align: center">
+              {{ round(data['Robot']['mean']['median'], 1) }}
+              <div style="font-size: xx-small; margin-top: -0.3em">
+                ({{ round(data['Robot']['mean']['c_low'], 1) }},
+                {{ round(data['Robot']['mean']['c_high'], 1) }})
+              </div>
+            </td>
+          <td class="humanSepCol" style="text-align: center; font-size: smaller">
+            {{ round(data['Human']['majority']['median']*100) }}%
+            <div style="font-size: xx-small; margin-top: -0.3em">
+            ({{ round(data['Human']['majority']['c_low']*100) }},
+            {{ round(data['Human']['majority']['c_high']*100) }})
+            </div>
+            </td>
+          <!--<td style="text-align: center; font-size: smaller">
+            {{ round(data['Human']['mean']['median'], 1) }}
+            <div style="font-size: xx-small; margin-top: -0.3em">
+              ({{ round(data['Human']['mean']['c_low'], 1) }},
+              {{ round(data['Human']['mean']['c_high'], 1) }})
+            </div>
+          </td>-->
+          {% endfor %}
+        </tr>
+      {% endfor %}
+    </table>
+    </div>
+  </body>
+</html>

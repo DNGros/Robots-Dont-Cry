@@ -1,0 +1,14 @@
+wasabi==0.8.0
+wcwidth==0.2.5
+webencodings==0.5.1
+websocket-client==0.57.0
+websocket-server==0.4
+Werkzeug==1.0.1
+wheel==0.35.1
+Whoosh==2.7.4
+widgetsnbextension==3.5.1
+wordcloud==1.8.1
+xxhash==2.0.2
+yacs==0.1.8
+yarl==1.7.2
+zipp==3.3.0
